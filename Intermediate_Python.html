@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Python Course Portal</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      margin-top: 10px;
+    }
+    ul {
+      line-height: 1.6;
+    }
+    pre {
+      background: #eef;
+      padding: 10px;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
+    .nav {
+      background: #2c3e50;
+      padding: 10px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    .nav a {
+      color: white;
+      text-decoration: none;
+      margin-right: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="nav">
+    <a href="#basic">Basic Python</a>
+    <a href="#intermediate">Intermediate Python</a>
+  </div>
+
+  <h1 id="basic">Basic Python Course</h1>
+
+  <div class="section">
+    <h2>1. Introduction to Python</h2>
+    <div class="card">
+      <p><strong>What is Python?</strong><br>Python is a high-level, interpreted programming language known for its readability and wide applicability in fields such as web development, data science, AI, and more.</p>
+      <p><strong>History of Python:</strong><br>Developed by Guido van Rossum and first released in 1991, Python was designed to emphasize code readability and simplicity.</p>
+      <p><strong>Features of Python:</strong><br>Easy to learn and use, dynamically typed, extensive libraries, portable, open source, and supports multiple programming paradigms.</p>
+      <p><strong>Applications of Python:</strong><br>Used in web development, automation, data analysis, machine learning, scripting, and desktop applications.</p>
+      <p><strong>Installing Python:</strong><br>Download from the official website (python.org), follow the installation instructions, and verify using <code>python --version</code> in the terminal.</p>
+      <p><strong>Writing your first Python program:</strong><br>Open a text editor or IDE, write <code>print("Hello, World!")</code>, save the file with a <code>.py</code> extension, and run it using the Python interpreter.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>2. Python Basics</h2>
+    <div class="card">
+      <p><strong>Python Syntax:</strong><br>Python uses indentation to define blocks of code. No need for curly braces or semicolons.</p>
+      <p><strong>Comments in Python:</strong><br>Single-line comments start with <code>#</code>, multi-line comments use triple quotes (<code>'''comment'''</code>).</p>
+      <p><strong>Variables and Data Types:</strong><br>Variables are created when first assigned. Common types include int, float, str, bool, list, tuple, dict, and set.</p>
+      <p><strong>Type Casting:</strong><br>Convert between types using <code>int()</code>, <code>str()</code>, <code>float()</code>, etc.</p>
+      <p><strong>Basic Input and Output:</strong><br>Use <code>input()</code> to read input and <code>print()</code> to display output.</p>
+      <p><strong>String Operations:</strong><br>Concatenate using <code>+</code>, repeat with <code>*</code>, access characters using indexing, and manipulate with string methods like <code>lower()</code>, <code>upper()</code>, <code>strip()</code>, etc.</p>
+      <p><strong>Basic Operators:</strong><br>Includes arithmetic (<code>+ - * / % // **</code>), comparison (<code>== != > < >= <=</code>), and logical (<code>and or not</code>) operators.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>3. Control Flow</h2>
+    <div class="card">
+      <p><strong>Conditional Statements:</strong><br>Use <code>if</code>, <code>if-else</code>, and <code>elif</code> to execute code based on conditions.</p>
+      <pre>
+if x > 0:
+  print("Positive")
+elif x == 0:
+  print("Zero")
+else:
+  print("Negative")</pre>
+      <p><strong>Loops:</strong><br>Use <code>for</code> and <code>while</code> loops to iterate over sequences or execute blocks while conditions are true.</p>
+      <pre>
+for i in range(5):
+  print(i)</pre>
+      <p><strong>Loop Control Statements:</strong><br><code>break</code> exits the loop, <code>continue</code> skips the current iteration, and <code>pass</code> does nothing (placeholder).</p>
+      <p><strong>Nested Loops and Conditionals:</strong><br>Use indentation carefully to nest logic for complex flows.</p>
+      <p><strong>Using range():</strong><br>The <code>range()</code> function generates sequences of numbers for iteration.</p>
+    </div>
+  </div>
+
+  <h1 id="intermediate">Intermediate Python Course</h1>
+
+  <div class="section">
+    <h2>4. Functions & Modules</h2>
+    <div class="card">
+      <p><strong>Functions:</strong><br>Reusable blocks of code defined using the <code>def</code> keyword. Functions help organize and reuse logic.</p>
+      <pre>
+def greet(name):
+  return "Hello, " + name</pre>
+      <p><strong>Parameters and Return Values:</strong><br>Functions accept parameters and may return values using the <code>return</code> keyword.</p>
+      <p><strong>Default Arguments and Keyword Arguments:</strong><br>You can define default values and use named arguments for clarity.</p>
+      <pre>
+def greet(name="User"):
+  print("Hello, " + name)
+
+greet("Alice")
+greet()</pre>
+      <p><strong>Modules:</strong><br>Modules are Python files that contain reusable functions or variables. Import them using <code>import</code>.</p>
+      <pre>
+import math
+print(math.sqrt(16))</pre>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>5. Data Structures</h2>
+    <div class="card">
+      <p><strong>Lists:</strong><br>Ordered, mutable collections. Created with square brackets <code>[]</code>.</p>
+      <pre>
+fruits = ["apple", "banana", "cherry"]
+print(fruits[1])</pre>
+      <p><strong>Tuples:</strong><br>Ordered, immutable collections. Created with parentheses <code>()</code>.</p>
+      <p><strong>Dictionaries:</strong><br>Unordered collections of key-value pairs. Created with curly braces <code>{}</code>.</p>
+      <pre>
+person = {"name": "John", "age": 30}
+print(person["name"])</pre>
+      <p><strong>Sets:</strong><br>Unordered collections of unique elements. Created with curly braces or the <code>set()</code> function.</p>
+      <p><strong>Common Methods:</strong><br>Use methods like <code>append()</code>, <code>pop()</code>, <code>update()</code>, <code>clear()</code>, etc. for manipulation.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>6. String Manipulation</h2>
+    <div class="card">
+      <p><strong>Accessing Strings:</strong><br>Use indexing and slicing to access substrings.</p>
+      <pre>
+text = "Python"
+print(text[0])   # P
+print(text[1:4]) # yth</pre>
+      <p><strong>String Methods:</strong><br>Common methods include <code>lower()</code>, <code>upper()</code>, <code>replace()</code>, <code>split()</code>, <code>join()</code>, <code>strip()</code>.</p>
+      <p><strong>String Formatting:</strong><br>Use <code>f"{value}"</code> or <code>format()</code> for clean output formatting.</p>
+      <pre>
+name = "Alice"
+print(f"Hello, {name}!")</pre>
+      <p><strong>Escape Characters:</strong><br>Use <code>\n</code> for newline, <code>\t</code> for tab, and <code>\\</code> for backslash.</p>
+    </div>
+  </div>
+
+</body>
+</html>

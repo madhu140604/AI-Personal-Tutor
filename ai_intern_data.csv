@@ -1,0 +1,1001 @@
+Name,Age,Gender,Country,State,City,Parent Occupation,Earning Class,Course Level,Assessment Score,Time per Day,IQ,Memory Power,Concentration,student_level,num_examples,break_interval,num_test_questions,course_duration,course_name,material_name,material_level
+Felicia,9,M,India,Delhi,New Delhi,Businessperson,Upper Middle,2,58,2,110,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Kimberly,13,F,UK,England,Manchester,Teacher,Upper Middle,3,82,8,123,7,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Michael,17,M,USA,California,Los Angeles,Laborer,Low,1,31,6,89,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Steven,11,M,UK,Scotland,Edinburgh,Clerk,Low,2,53,3,93,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Michael,10,M,Canada,Ontario,Ottawa,Doctor,Upper Middle,1,48,5,98,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+John,11,F,USA,New York,New York City,Teacher,Upper Middle,3,82,3,121,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Johnny,17,M,India,Tamil Nadu,Coimbatore,Teacher,Low,2,64,5,109,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+James,16,M,India,Maharashtra,Pune,Teacher,Low,1,35,2,91,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Rebecca,12,M,UK,Scotland,Glasgow,Engineer,Upper Middle,1,46,4,86,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Erica,17,M,Canada,Ontario,Ottawa,Laborer,Upper Middle,2,70,4,113,8,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+John,10,F,India,Maharashtra,Pune,Farmer,Low,2,52,6,100,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jeffrey,14,M,USA,New York,Buffalo,Teacher,Lower Middle,2,59,3,99,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Monica,18,F,India,Maharashtra,Mumbai,Engineer,High,3,81,7,114,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Sharon,14,M,UK,England,Manchester,Laborer,High,1,50,3,103,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Susan,12,F,India,Maharashtra,Mumbai,Doctor,Upper Middle,2,64,3,107,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Robert,13,M,USA,Texas,Dallas,Businessperson,Lower Middle,2,68,2,118,7,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Jessica,18,M,India,Tamil Nadu,Coimbatore,Laborer,Lower Middle,1,41,1,89,2,3,1,7,30,15,25,Basic_Python,Python_material,1
+Kimberly,13,F,UK,Scotland,Edinburgh,Clerk,High,1,38,2,92,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+John,17,M,UK,England,Manchester,Businessperson,Upper Middle,1,50,2,94,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Shawn,16,M,Canada,Ontario,Toronto,Clerk,Low,1,44,4,100,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Jessica,12,F,Canada,Quebec,Montreal,IT Professional,Upper Middle,2,57,2,105,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Hannah,10,M,USA,New York,Buffalo,Engineer,Lower Middle,2,56,5,105,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Taylor,15,F,India,Tamil Nadu,Chennai,Laborer,Lower Middle,2,61,5,102,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Tyler,8,F,UK,England,London,Businessperson,Lower Middle,3,84,8,114,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Seth,8,M,UK,England,Manchester,Clerk,Upper Middle,1,43,5,92,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Monique,10,M,India,Maharashtra,Mumbai,Clerk,Lower Middle,3,82,3,115,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Jason,17,M,UK,England,London,Engineer,Upper Middle,2,59,2,106,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Robert,15,M,India,Delhi,New Delhi,Farmer,Lower Middle,3,95,7,125,7,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Donald,16,F,Canada,Ontario,Toronto,Teacher,Low,1,27,3,86,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+James,15,F,UK,Scotland,Edinburgh,IT Professional,High,2,51,5,92,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kenneth,16,M,Canada,Ontario,Toronto,Teacher,High,2,51,7,110,9,10,2,3,50,15,20,Intermediate_Python,Python_material,1
+Sandra,18,M,India,Maharashtra,Mumbai,Engineer,Low,1,33,5,86,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Kevin,11,M,Canada,Ontario,Ottawa,Laborer,Low,1,50,5,104,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Jason,17,F,Canada,Quebec,Quebec City,Clerk,Upper Middle,2,74,3,113,6,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Jonathan,17,F,India,Delhi,New Delhi,Clerk,Upper Middle,2,72,4,116,9,10,2,3,50,12,20,Intermediate_Python,Python_material,1
+Corey,14,F,UK,Scotland,Edinburgh,Engineer,Upper Middle,1,39,2,96,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Amanda,14,M,USA,California,San Francisco,Engineer,High,3,87,8,125,7,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Vincent,8,F,UK,England,Manchester,Teacher,Lower Middle,2,51,5,105,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Melanie,8,M,USA,New York,Buffalo,Clerk,Upper Middle,3,87,3,125,8,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Scott,12,M,UK,England,Manchester,Clerk,Upper Middle,1,35,4,91,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Melissa,16,F,Canada,Quebec,Quebec City,Engineer,Low,1,43,1,86,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Robert,10,F,UK,England,Manchester,Clerk,Upper Middle,1,48,2,107,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Tara,14,F,UK,England,London,Teacher,Low,2,64,2,109,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Lisa,14,M,USA,New York,New York City,Engineer,Upper Middle,1,31,4,85,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Jessica,11,M,India,Delhi,New Delhi,Farmer,Upper Middle,1,34,5,94,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Kimberly,18,F,India,Tamil Nadu,Coimbatore,Engineer,High,1,46,2,102,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Edward,14,F,UK,Scotland,Edinburgh,Farmer,Low,2,63,5,104,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Eric,13,F,Canada,Ontario,Ottawa,Farmer,Lower Middle,2,66,5,116,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Robert,10,M,UK,England,Manchester,Businessperson,Low,3,99,8,132,10,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Elizabeth,18,F,India,Delhi,New Delhi,IT Professional,High,2,55,4,101,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Timothy,18,F,UK,England,Manchester,Farmer,Upper Middle,2,61,5,104,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Katherine,10,F,USA,Texas,Dallas,Businessperson,Lower Middle,1,46,1,102,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Emily,9,F,UK,England,Manchester,Clerk,Low,3,81,5,114,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Douglas,9,M,UK,Scotland,Edinburgh,Teacher,High,1,41,2,91,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+William,18,F,USA,Texas,Houston,Laborer,High,1,46,1,93,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Paula,14,F,USA,Texas,Houston,Teacher,Lower Middle,1,28,2,85,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Teresa,16,F,UK,England,London,Doctor,Low,2,72,4,113,9,9,2,3,50,12,20,Intermediate_Python,Python_material,1
+Ian,9,F,Canada,Ontario,Toronto,Engineer,Lower Middle,1,50,5,99,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Sara,14,F,UK,England,Manchester,Laborer,Upper Middle,1,48,5,103,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Adam,14,M,USA,New York,New York City,Businessperson,Lower Middle,1,37,1,92,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Richard,11,F,India,Tamil Nadu,Chennai,Farmer,High,1,43,6,93,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Sharon,18,M,USA,Texas,Houston,Businessperson,Low,1,38,1,96,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+James,15,M,India,Tamil Nadu,Coimbatore,IT Professional,Low,1,46,5,96,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Brent,13,F,Canada,Quebec,Quebec City,Doctor,Low,3,85,5,118,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Mary,16,M,India,Delhi,New Delhi,Teacher,Lower Middle,2,68,8,110,6,6,2,7,30,12,20,Intermediate_Python,Python_material,1
+Elizabeth,10,M,USA,New York,Buffalo,Laborer,Upper Middle,1,42,3,87,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+David,9,M,UK,Scotland,Edinburgh,Teacher,High,2,62,6,105,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Teresa,12,F,Canada,Quebec,Montreal,Businessperson,Low,1,45,5,92,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Robert,12,M,Canada,Ontario,Toronto,Laborer,Lower Middle,1,37,5,94,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Christopher,16,M,UK,Scotland,Glasgow,Laborer,High,1,35,2,86,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+James,10,F,India,Delhi,New Delhi,Teacher,Lower Middle,2,57,5,110,8,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Christina,14,F,UK,England,Manchester,IT Professional,Low,1,37,5,86,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Joshua,10,F,Canada,Ontario,Ottawa,IT Professional,Low,1,38,1,97,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Jennifer,14,F,USA,Texas,Houston,Businessperson,Low,2,62,6,105,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jonathan,10,F,UK,Scotland,Glasgow,Clerk,Lower Middle,3,86,2,120,6,5,3,5,30,10,15,Learn_Good_Python,Python_material,1
+John,15,M,UK,Scotland,Edinburgh,Businessperson,Upper Middle,2,71,3,119,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Sydney,14,M,India,Maharashtra,Mumbai,Farmer,Lower Middle,1,39,1,97,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Kevin,14,M,India,Delhi,New Delhi,Clerk,Lower Middle,2,53,4,95,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Vincent,14,F,UK,Scotland,Edinburgh,Farmer,Upper Middle,3,92,4,140,10,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Brian,11,M,USA,California,Los Angeles,IT Professional,Upper Middle,1,46,6,93,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Rodney,14,M,UK,England,Manchester,IT Professional,Upper Middle,1,40,2,85,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Steven,10,F,UK,England,Manchester,Engineer,High,2,56,4,109,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Felicia,12,F,Canada,Quebec,Quebec City,Clerk,Upper Middle,3,85,7,119,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Joshua,11,M,India,Delhi,New Delhi,Businessperson,Low,2,58,7,99,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Christine,15,F,USA,New York,New York City,Engineer,Low,2,63,8,105,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Erik,12,M,UK,England,Manchester,Teacher,Low,2,59,4,101,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Stephen,14,M,UK,England,Manchester,Clerk,Lower Middle,2,54,2,102,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Nancy,8,M,Canada,Ontario,Toronto,Laborer,Upper Middle,1,48,5,90,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Leslie,18,F,Canada,Quebec,Quebec City,IT Professional,Upper Middle,1,50,1,106,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Austin,11,M,India,Maharashtra,Pune,IT Professional,Upper Middle,2,65,7,114,9,10,2,3,50,12,20,Intermediate_Python,Python_material,1
+Andres,18,M,Canada,Ontario,Ottawa,Doctor,Lower Middle,2,62,8,111,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+Robert,10,F,India,Tamil Nadu,Chennai,Businessperson,Lower Middle,3,82,7,125,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Kimberly,14,M,Canada,Quebec,Quebec City,Businessperson,Lower Middle,1,43,1,95,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Alicia,15,F,UK,England,London,Farmer,High,1,50,3,97,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Andrea,14,M,Canada,Ontario,Ottawa,Laborer,Low,3,87,3,123,7,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Cynthia,16,F,India,Maharashtra,Mumbai,Laborer,High,1,47,4,98,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+William,9,M,USA,California,Los Angeles,Doctor,High,1,45,1,105,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Gregory,12,M,UK,England,Manchester,Businessperson,High,1,39,2,89,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Jamie,11,F,Canada,Quebec,Quebec City,Teacher,Upper Middle,3,79,3,119,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Angela,8,M,Canada,Ontario,Toronto,Businessperson,Lower Middle,3,88,6,119,9,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Linda,17,M,UK,England,Manchester,Laborer,High,2,53,5,110,9,8,2,3,40,15,20,Intermediate_Python,Python_material,1
+Jason,11,M,India,Tamil Nadu,Coimbatore,Clerk,Low,3,79,2,129,7,7,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Bryan,13,F,USA,Texas,Dallas,Clerk,Low,1,33,5,91,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Jean,10,F,UK,England,Manchester,Businessperson,Upper Middle,1,45,4,92,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Amy,10,F,India,Delhi,New Delhi,Farmer,Lower Middle,1,37,5,92,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Deborah,12,F,UK,Scotland,Glasgow,Farmer,Lower Middle,2,73,6,123,9,10,2,3,50,12,20,Intermediate_Python,Python_material,1
+James,8,M,UK,England,London,Doctor,Lower Middle,2,67,7,107,4,5,2,7,30,12,20,Intermediate_Python,Python_material,1
+Emily,12,M,Canada,Quebec,Quebec City,IT Professional,High,1,43,6,87,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Erin,18,F,USA,Texas,Houston,Engineer,Lower Middle,2,53,6,94,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Kristin,9,F,India,Maharashtra,Mumbai,IT Professional,Low,3,100,6,139,9,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Joyce,15,F,Canada,Quebec,Quebec City,Farmer,Low,2,75,2,124,9,9,2,3,50,12,20,Intermediate_Python,Python_material,1
+Dennis,18,M,USA,New York,New York City,Laborer,Lower Middle,2,56,3,100,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Ethan,11,M,UK,England,Manchester,Laborer,Low,3,82,3,125,9,10,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Vanessa,8,M,Canada,Quebec,Quebec City,Laborer,Low,2,60,4,101,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Joe,11,F,India,Maharashtra,Mumbai,Doctor,Low,3,84,2,123,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Danielle,13,F,India,Delhi,New Delhi,Clerk,Lower Middle,1,37,5,88,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Michael,17,F,USA,California,Los Angeles,Farmer,High,3,89,3,136,9,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Austin,8,F,UK,England,Manchester,Businessperson,High,1,45,5,93,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Anthony,8,M,UK,England,Manchester,Farmer,High,1,44,6,86,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Evelyn,9,M,USA,New York,New York City,IT Professional,Lower Middle,2,70,6,113,7,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+George,8,M,USA,California,San Francisco,Clerk,High,1,38,5,89,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Samuel,9,F,India,Delhi,New Delhi,Engineer,Upper Middle,3,77,8,121,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Cameron,18,M,USA,Texas,Houston,Doctor,Upper Middle,2,62,5,106,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Marc,8,M,India,Delhi,New Delhi,Teacher,Upper Middle,2,69,5,115,7,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Joseph,9,F,Canada,Quebec,Montreal,Teacher,Upper Middle,1,29,2,85,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Kimberly,17,M,Canada,Quebec,Montreal,Teacher,Upper Middle,2,55,6,97,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Trevor,15,M,India,Maharashtra,Pune,IT Professional,Low,2,57,8,97,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Jason,13,F,Canada,Ontario,Toronto,Farmer,Lower Middle,2,61,2,105,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Christina,18,F,Canada,Quebec,Montreal,Farmer,Lower Middle,2,63,2,108,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Joseph,15,M,USA,New York,Buffalo,Engineer,Lower Middle,2,52,5,107,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Melissa,15,M,UK,Scotland,Glasgow,Teacher,Lower Middle,1,49,4,102,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Ian,8,F,UK,Scotland,Glasgow,Teacher,Lower Middle,2,55,2,106,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Tyler,17,M,USA,New York,New York City,Teacher,Low,1,45,1,104,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Stephanie,8,F,UK,England,London,Laborer,Upper Middle,2,66,7,107,7,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Alexis,17,M,USA,New York,New York City,Clerk,Lower Middle,2,60,8,105,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Corey,15,F,India,Tamil Nadu,Chennai,Laborer,Upper Middle,2,55,2,109,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Erin,8,F,Canada,Ontario,Ottawa,IT Professional,Lower Middle,3,77,4,118,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Jessica,8,F,UK,Scotland,Edinburgh,Teacher,Lower Middle,3,85,2,117,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Eric,15,F,India,Maharashtra,Pune,IT Professional,Low,2,70,2,116,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Michelle,14,M,India,Tamil Nadu,Chennai,Clerk,Upper Middle,2,60,7,100,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Wesley,10,M,India,Tamil Nadu,Coimbatore,Clerk,Lower Middle,1,49,2,91,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Andrea,11,M,Canada,Quebec,Montreal,Doctor,Upper Middle,2,71,4,119,8,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Dana,8,M,USA,California,San Francisco,Farmer,High,1,38,2,90,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Brian,16,M,UK,Scotland,Edinburgh,Laborer,Upper Middle,1,44,4,86,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Margaret,14,F,Canada,Quebec,Quebec City,Doctor,High,2,72,3,119,8,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Nicholas,12,F,USA,Texas,Houston,Teacher,Low,2,55,4,99,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Bianca,18,F,India,Delhi,New Delhi,Farmer,Low,3,87,6,121,8,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Sarah,17,F,USA,Texas,Houston,Farmer,Upper Middle,2,70,4,119,9,8,2,3,40,12,20,Intermediate_Python,Python_material,1
+Angel,16,F,India,Maharashtra,Pune,Teacher,Low,1,35,5,90,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Hector,16,F,USA,California,Los Angeles,Engineer,Lower Middle,2,60,7,100,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Collin,15,F,Canada,Ontario,Toronto,Farmer,Lower Middle,2,59,7,106,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jose,18,F,India,Tamil Nadu,Chennai,Laborer,Upper Middle,1,29,2,89,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Monica,15,F,UK,Scotland,Edinburgh,Businessperson,Low,3,90,4,133,9,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Deborah,17,F,India,Delhi,New Delhi,Engineer,Low,3,84,2,122,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Connie,9,F,India,Delhi,New Delhi,IT Professional,Lower Middle,2,75,3,125,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+Sarah,15,M,USA,New York,New York City,IT Professional,Lower Middle,1,47,3,88,2,3,1,7,30,15,25,Basic_Python,Python_material,1
+Michelle,14,M,India,Maharashtra,Pune,IT Professional,Low,2,52,8,104,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Mary,13,F,Canada,Quebec,Quebec City,IT Professional,Upper Middle,2,53,2,95,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Erik,10,M,Canada,Quebec,Quebec City,Teacher,Lower Middle,3,86,4,131,10,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+David,16,M,India,Maharashtra,Pune,Farmer,High,1,44,6,91,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Barbara,8,M,USA,California,San Francisco,Clerk,Lower Middle,3,92,4,122,8,9,3,5,50,10,15,Learn_Good_Python,Python_material,1
+Michele,12,F,India,Tamil Nadu,Chennai,Teacher,Lower Middle,2,53,4,95,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Emily,12,F,Canada,Quebec,Quebec City,IT Professional,Low,3,86,3,117,8,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Amy,8,M,UK,Scotland,Edinburgh,Businessperson,Lower Middle,3,81,2,115,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Monica,8,F,USA,New York,Buffalo,Teacher,Upper Middle,2,65,3,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Darryl,8,M,USA,California,San Francisco,IT Professional,High,3,90,5,121,7,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Matthew,18,F,India,Delhi,New Delhi,Businessperson,High,2,63,8,106,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Stacy,17,F,India,Maharashtra,Mumbai,Clerk,High,1,32,1,85,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Emily,10,F,UK,England,London,IT Professional,High,2,52,2,94,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jared,17,M,Canada,Ontario,Toronto,Laborer,Lower Middle,1,44,4,98,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Andrew,18,F,UK,Scotland,Edinburgh,Clerk,Upper Middle,1,31,5,88,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Zachary,8,M,Canada,Quebec,Montreal,Clerk,Upper Middle,3,80,6,121,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Gregory,16,M,UK,Scotland,Glasgow,Doctor,Lower Middle,1,45,1,95,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Cathy,9,F,USA,Texas,Dallas,Teacher,Lower Middle,1,48,4,91,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Natalie,16,M,Canada,Ontario,Ottawa,Teacher,Low,3,81,8,125,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Marc,15,M,India,Delhi,New Delhi,Farmer,Lower Middle,1,41,5,100,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Samantha,10,M,USA,Texas,Dallas,Teacher,Upper Middle,1,32,2,87,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Amanda,13,F,USA,California,San Francisco,Engineer,Upper Middle,3,100,2,140,8,7,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Jeremy,16,F,Canada,Ontario,Ottawa,Teacher,High,1,50,3,106,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Donald,13,F,Canada,Quebec,Montreal,Clerk,Low,3,85,2,127,6,5,3,3,30,10,15,Learn_Good_Python,Python_material,1
+Donald,12,M,UK,England,London,IT Professional,Lower Middle,1,37,2,90,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Stephanie,14,M,UK,Scotland,Glasgow,Engineer,Upper Middle,1,50,5,96,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Paige,8,M,India,Tamil Nadu,Chennai,Clerk,Lower Middle,1,49,2,106,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Kevin,8,F,Canada,Ontario,Ottawa,Laborer,Low,1,46,5,97,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Raymond,11,M,UK,England,Manchester,Businessperson,Lower Middle,3,86,6,125,6,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Ryan,17,M,USA,Texas,Dallas,Engineer,Lower Middle,3,98,2,128,6,7,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Juan,15,M,India,Delhi,New Delhi,Doctor,Upper Middle,3,91,8,125,7,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Natalie,14,M,UK,Scotland,Glasgow,IT Professional,Lower Middle,2,59,4,107,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Maureen,9,F,India,Delhi,New Delhi,IT Professional,High,3,93,2,123,6,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Lisa,17,M,Canada,Quebec,Montreal,Businessperson,Lower Middle,3,90,7,125,8,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Brandi,13,F,Canada,Quebec,Montreal,Teacher,High,2,58,2,99,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Alyssa,15,F,India,Delhi,New Delhi,Doctor,Upper Middle,3,81,2,114,7,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Dennis,10,F,UK,England,London,Clerk,Low,2,53,4,95,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Chad,11,F,Canada,Quebec,Quebec City,Farmer,Lower Middle,2,53,2,95,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Carly,16,F,Canada,Ontario,Ottawa,Clerk,Upper Middle,2,73,4,116,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Maxwell,10,F,UK,Scotland,Glasgow,Engineer,Low,1,45,1,95,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Nicole,16,M,UK,England,London,Businessperson,Upper Middle,2,69,7,111,8,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Deanna,13,M,UK,Scotland,Glasgow,IT Professional,Upper Middle,2,51,6,92,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Angel,18,F,Canada,Quebec,Quebec City,Engineer,Upper Middle,1,31,4,89,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Matthew,9,M,USA,California,San Francisco,Clerk,High,1,26,5,86,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Jamie,14,M,UK,England,London,Teacher,Upper Middle,2,72,5,117,7,6,2,5,30,12,20,Intermediate_Python,Python_material,1
+Veronica,13,F,USA,Texas,Dallas,Farmer,Lower Middle,2,59,2,105,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Gabrielle,14,M,India,Maharashtra,Mumbai,Farmer,High,1,42,4,97,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Mariah,14,M,Canada,Ontario,Toronto,Clerk,Upper Middle,2,54,2,108,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Alicia,10,M,Canada,Quebec,Quebec City,IT Professional,Lower Middle,1,46,5,93,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Ronald,11,F,India,Delhi,New Delhi,IT Professional,Lower Middle,2,56,6,99,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Michael,15,M,UK,England,London,Clerk,High,2,52,6,107,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Jonathan,18,F,USA,California,San Francisco,Clerk,Upper Middle,1,50,6,106,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Pamela,10,F,India,Maharashtra,Mumbai,Doctor,Low,1,35,6,88,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Lauren,11,M,Canada,Ontario,Ottawa,Clerk,Upper Middle,3,92,7,130,10,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Vanessa,9,M,UK,England,London,Engineer,Low,1,37,4,92,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Molly,17,F,India,Delhi,New Delhi,Businessperson,Low,1,47,6,102,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Scott,9,F,USA,New York,Buffalo,Businessperson,Upper Middle,3,90,6,126,7,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Jodi,8,M,UK,Scotland,Glasgow,Clerk,Lower Middle,2,56,6,107,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Justin,13,M,UK,Scotland,Edinburgh,Teacher,Upper Middle,3,79,6,123,9,9,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Louis,13,M,UK,England,London,Clerk,Lower Middle,1,35,1,93,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Timothy,16,M,Canada,Ontario,Ottawa,IT Professional,High,1,41,1,94,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Ashley,16,M,USA,New York,New York City,Doctor,Low,2,57,2,102,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Christina,8,M,India,Tamil Nadu,Chennai,Engineer,Lower Middle,2,60,8,108,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Daniel,11,F,Canada,Ontario,Ottawa,Doctor,Lower Middle,2,56,5,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Lori,15,M,UK,Scotland,Glasgow,Clerk,Lower Middle,3,85,7,126,9,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Brittany,9,F,India,Tamil Nadu,Coimbatore,IT Professional,Lower Middle,2,60,4,101,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Connor,14,M,UK,England,London,Engineer,High,2,54,4,96,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Andrew,17,F,UK,Scotland,Glasgow,Engineer,High,2,55,2,102,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Bailey,9,F,Canada,Quebec,Montreal,Engineer,High,1,40,5,93,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Ashley,8,M,India,Tamil Nadu,Chennai,Engineer,Upper Middle,1,46,5,96,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Joshua,15,F,UK,England,London,Businessperson,High,1,43,4,91,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Brandy,11,M,UK,England,Manchester,Clerk,Lower Middle,1,42,5,95,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Lisa,17,M,Canada,Quebec,Montreal,Engineer,Upper Middle,3,86,5,120,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Sierra,13,F,UK,Scotland,Edinburgh,Clerk,Lower Middle,1,48,1,102,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Mallory,12,F,India,Tamil Nadu,Chennai,IT Professional,High,2,74,2,111,6,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Christina,11,M,Canada,Ontario,Ottawa,Engineer,Upper Middle,3,80,8,128,8,7,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Logan,8,M,UK,Scotland,Glasgow,Businessperson,High,2,55,6,96,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Hannah,8,F,USA,New York,Buffalo,Farmer,Upper Middle,3,84,7,124,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Steven,13,F,Canada,Quebec,Quebec City,Businessperson,Lower Middle,1,49,2,108,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Isabel,8,F,India,Delhi,New Delhi,IT Professional,Upper Middle,3,87,7,124,7,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Jose,16,F,Canada,Ontario,Toronto,Farmer,High,1,29,2,86,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Justin,11,F,USA,California,Los Angeles,Engineer,High,1,32,1,85,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Seth,12,M,UK,England,Manchester,IT Professional,High,2,55,5,106,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+David,17,F,USA,New York,Buffalo,Farmer,Upper Middle,3,90,8,125,7,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Marilyn,9,F,India,Maharashtra,Mumbai,Doctor,Upper Middle,3,77,5,116,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Ronnie,15,F,UK,Scotland,Glasgow,Doctor,Lower Middle,2,54,2,107,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Lori,11,M,USA,Texas,Dallas,Farmer,Lower Middle,1,47,2,91,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Deanna,18,F,USA,New York,Buffalo,Farmer,Low,3,77,5,111,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Ariel,13,M,UK,Scotland,Edinburgh,Teacher,Lower Middle,3,77,8,113,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Kimberly,16,F,Canada,Ontario,Ottawa,Teacher,Lower Middle,1,44,1,89,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Gabriel,14,M,India,Delhi,New Delhi,Farmer,Lower Middle,1,38,4,91,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Sara,11,F,USA,Texas,Dallas,Teacher,Upper Middle,2,57,6,99,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Sarah,14,M,UK,Scotland,Edinburgh,IT Professional,High,1,40,1,99,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Emily,17,M,India,Delhi,New Delhi,Teacher,Lower Middle,1,33,2,92,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Louis,14,F,USA,New York,New York City,IT Professional,Lower Middle,2,56,5,107,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Christopher,17,F,USA,Texas,Houston,IT Professional,Upper Middle,1,43,2,96,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Jonathan,14,F,USA,California,San Francisco,Teacher,Low,2,54,6,94,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Heather,8,M,UK,England,Manchester,Engineer,Upper Middle,3,77,6,114,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Heather,18,F,Canada,Quebec,Quebec City,Teacher,High,2,67,3,112,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Peter,17,F,India,Maharashtra,Mumbai,Farmer,Lower Middle,1,44,6,91,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Patricia,14,F,India,Tamil Nadu,Chennai,IT Professional,Low,2,57,6,100,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Amy,9,M,USA,New York,Buffalo,Clerk,Lower Middle,2,54,2,100,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Raymond,15,F,UK,Scotland,Glasgow,Engineer,Upper Middle,2,55,2,103,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+James,16,F,UK,England,Manchester,Laborer,Low,3,76,3,116,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Caitlin,17,F,UK,England,Manchester,Businessperson,Upper Middle,1,48,5,99,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Austin,16,M,USA,California,San Francisco,IT Professional,High,2,52,4,110,8,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Shawn,14,M,UK,Scotland,Glasgow,Laborer,Lower Middle,3,93,4,127,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Christopher,9,M,USA,California,Los Angeles,Clerk,Low,1,47,1,94,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Joseph,12,M,India,Tamil Nadu,Chennai,Engineer,Low,1,50,5,98,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Micheal,14,F,USA,Texas,Houston,Laborer,Upper Middle,2,53,6,105,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Joshua,9,M,USA,Texas,Dallas,Doctor,Upper Middle,2,51,6,107,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jessica,13,F,India,Tamil Nadu,Chennai,IT Professional,High,2,65,7,114,8,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Lauren,13,M,UK,England,London,Doctor,High,1,43,1,99,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Travis,13,F,USA,California,San Francisco,Doctor,Low,1,37,5,92,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Zachary,16,M,Canada,Ontario,Ottawa,Businessperson,Upper Middle,3,88,7,118,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Eric,14,F,USA,California,Los Angeles,Farmer,High,2,53,3,103,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Wesley,9,M,UK,England,Manchester,Laborer,Lower Middle,2,58,3,101,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Krista,17,M,UK,England,London,Businessperson,High,1,34,4,89,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Crystal,9,M,Canada,Ontario,Ottawa,Doctor,Upper Middle,1,49,4,108,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Timothy,8,M,Canada,Ontario,Toronto,Businessperson,Low,1,39,6,85,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Drew,13,M,Canada,Ontario,Ottawa,Clerk,Low,1,45,3,96,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Mario,14,F,USA,California,Los Angeles,IT Professional,Upper Middle,2,52,4,101,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Tammy,11,M,UK,England,Manchester,Doctor,High,2,66,4,106,4,5,2,7,30,12,20,Intermediate_Python,Python_material,1
+James,18,M,USA,Texas,Houston,Laborer,Upper Middle,1,47,3,95,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Timothy,15,M,Canada,Quebec,Montreal,Clerk,High,1,27,6,87,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Ariana,13,F,USA,California,San Francisco,IT Professional,Low,2,56,3,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Kimberly,10,M,India,Delhi,New Delhi,Teacher,Upper Middle,1,41,5,100,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Amanda,14,F,USA,California,Los Angeles,IT Professional,Low,2,51,8,105,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Bonnie,15,M,USA,Texas,Houston,Farmer,Low,1,50,6,96,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Shane,16,M,UK,England,London,Clerk,Lower Middle,1,46,5,93,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Virginia,8,M,Canada,Ontario,Toronto,Engineer,Upper Middle,2,54,7,108,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Roberta,8,M,India,Tamil Nadu,Chennai,Businessperson,Low,2,53,3,104,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Daniel,8,M,UK,England,Manchester,Businessperson,Lower Middle,3,100,3,140,10,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Cindy,11,M,USA,Texas,Houston,Doctor,High,1,38,2,87,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Allen,18,F,UK,Scotland,Glasgow,Teacher,Upper Middle,1,36,4,94,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Theodore,8,F,Canada,Quebec,Quebec City,IT Professional,Upper Middle,2,52,5,100,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Linda,16,M,USA,California,Los Angeles,Farmer,High,1,49,3,107,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Eric,18,M,UK,Scotland,Glasgow,Farmer,Low,1,43,2,98,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Rebecca,14,F,USA,California,Los Angeles,Clerk,Lower Middle,1,47,2,88,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Logan,13,M,UK,England,Manchester,Businessperson,Upper Middle,1,46,6,102,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Sarah,9,F,UK,England,London,Doctor,Upper Middle,1,41,4,92,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Stephen,17,F,Canada,Quebec,Montreal,Clerk,Lower Middle,1,37,6,85,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Tanner,17,F,USA,Texas,Dallas,IT Professional,Upper Middle,1,34,2,89,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Connie,11,F,India,Maharashtra,Pune,IT Professional,Lower Middle,2,75,5,114,9,8,2,3,40,12,20,Intermediate_Python,Python_material,1
+Joyce,15,F,India,Tamil Nadu,Coimbatore,Businessperson,High,2,61,4,101,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Krista,10,M,UK,Scotland,Edinburgh,Doctor,High,3,77,5,125,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Hayley,10,M,UK,Scotland,Glasgow,Clerk,Low,3,83,6,123,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+David,8,F,UK,Scotland,Edinburgh,Laborer,Upper Middle,1,50,4,101,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Jeffrey,10,M,India,Maharashtra,Pune,Businessperson,Lower Middle,2,59,7,103,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Robert,15,F,India,Delhi,New Delhi,IT Professional,High,3,90,2,125,8,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Nicole,14,M,Canada,Quebec,Montreal,Farmer,Lower Middle,2,53,6,96,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Jessica,12,F,India,Maharashtra,Pune,Businessperson,High,1,49,3,103,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Tracy,16,M,India,Delhi,New Delhi,Businessperson,Lower Middle,1,38,4,92,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Hannah,11,F,Canada,Quebec,Quebec City,Clerk,Upper Middle,1,48,2,104,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Eugene,8,M,Canada,Quebec,Montreal,Clerk,Upper Middle,1,50,4,95,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Kenneth,8,M,India,Tamil Nadu,Coimbatore,Teacher,Upper Middle,1,33,5,92,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Kenneth,15,M,UK,Scotland,Glasgow,Farmer,Low,2,62,4,106,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Christina,14,M,Canada,Ontario,Ottawa,Engineer,Upper Middle,1,42,5,90,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Scott,8,M,USA,Texas,Houston,Clerk,High,1,47,6,94,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Michael,10,M,UK,England,London,Farmer,Lower Middle,2,70,3,114,6,6,2,5,30,12,20,Intermediate_Python,Python_material,1
+Jeffrey,9,F,UK,England,London,IT Professional,Upper Middle,2,61,7,105,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Shaun,15,F,India,Tamil Nadu,Coimbatore,Laborer,Lower Middle,2,64,5,112,7,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Curtis,15,M,India,Maharashtra,Mumbai,Businessperson,High,1,48,4,99,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Ryan,16,F,India,Delhi,New Delhi,IT Professional,Upper Middle,1,47,5,105,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Lisa,16,M,India,Delhi,New Delhi,IT Professional,High,1,46,6,96,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Steven,10,F,UK,England,Manchester,Teacher,High,1,40,5,95,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Joseph,15,F,Canada,Ontario,Toronto,Laborer,Low,2,63,7,104,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Alexis,14,F,UK,England,London,IT Professional,Upper Middle,3,89,7,122,7,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Cassandra,17,F,India,Tamil Nadu,Coimbatore,Clerk,High,3,81,5,111,9,10,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Sarah,8,M,UK,Scotland,Edinburgh,Laborer,Lower Middle,2,51,2,109,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+James,9,F,Canada,Quebec,Quebec City,Teacher,Upper Middle,3,100,6,135,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+John,18,F,UK,England,London,IT Professional,Low,1,30,4,85,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Meghan,18,M,India,Tamil Nadu,Coimbatore,Laborer,Low,2,65,3,109,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Roy,16,M,UK,Scotland,Glasgow,Clerk,High,1,43,3,94,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Joel,12,F,Canada,Ontario,Toronto,Farmer,Low,3,88,6,122,6,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Jermaine,8,M,Canada,Quebec,Montreal,Businessperson,High,2,57,3,107,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Ellen,10,F,USA,California,Los Angeles,IT Professional,High,3,100,7,134,8,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Kayla,11,M,USA,New York,New York City,Clerk,Low,3,87,6,121,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Ashley,10,M,UK,England,Manchester,IT Professional,Lower Middle,1,42,4,89,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Luke,16,M,USA,Texas,Dallas,Engineer,High,1,46,2,92,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Angela,16,F,UK,Scotland,Glasgow,Farmer,Lower Middle,2,59,7,104,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Brandon,9,F,UK,Scotland,Edinburgh,Clerk,Upper Middle,3,83,2,116,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Allison,18,M,UK,Scotland,Glasgow,Farmer,Lower Middle,1,38,4,96,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Sherri,15,F,UK,Scotland,Glasgow,Doctor,Low,3,89,4,123,8,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Lisa,18,F,UK,Scotland,Edinburgh,Doctor,Lower Middle,1,29,5,88,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Jesse,18,F,India,Tamil Nadu,Coimbatore,Engineer,Upper Middle,3,82,7,123,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Michael,11,M,USA,California,Los Angeles,Teacher,Low,1,42,3,99,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Walter,10,M,India,Tamil Nadu,Coimbatore,Farmer,Lower Middle,3,80,8,119,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Timothy,9,M,USA,Texas,Houston,Farmer,Low,1,50,2,103,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Michael,10,M,USA,California,Los Angeles,Businessperson,Upper Middle,3,85,7,124,9,9,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Sharon,16,M,USA,Texas,Dallas,IT Professional,Lower Middle,3,85,4,121,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Sarah,10,F,UK,Scotland,Glasgow,Engineer,Low,1,40,3,86,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Melissa,10,M,Canada,Quebec,Quebec City,Laborer,Low,2,73,5,114,9,8,2,3,40,12,20,Intermediate_Python,Python_material,1
+Emily,12,M,USA,New York,New York City,Farmer,Upper Middle,3,78,4,112,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Donna,11,F,Canada,Ontario,Toronto,Businessperson,High,2,63,8,109,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Doris,9,M,USA,California,Los Angeles,Engineer,Low,3,85,3,125,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+David,9,F,India,Delhi,New Delhi,Engineer,Lower Middle,1,46,3,89,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Timothy,14,M,USA,New York,Buffalo,Engineer,Upper Middle,3,76,3,114,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Tammie,15,F,India,Maharashtra,Pune,Laborer,Low,3,85,5,129,7,7,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Melissa,12,F,USA,New York,New York City,Laborer,Lower Middle,2,55,7,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Anthony,12,F,India,Tamil Nadu,Chennai,Laborer,Lower Middle,2,59,4,104,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Susan,14,F,India,Delhi,New Delhi,Teacher,Low,1,39,6,90,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Janet,18,M,India,Maharashtra,Mumbai,Clerk,High,1,48,6,90,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Michelle,16,M,USA,California,San Francisco,Businessperson,Upper Middle,3,77,8,121,9,9,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Nicole,15,F,UK,Scotland,Edinburgh,Clerk,Upper Middle,2,53,3,101,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Richard,18,F,USA,California,Los Angeles,Laborer,Upper Middle,2,51,7,93,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Max,15,M,India,Tamil Nadu,Chennai,Businessperson,Low,1,41,4,95,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+David,9,M,UK,Scotland,Edinburgh,Laborer,High,2,64,8,110,9,10,2,3,50,15,20,Intermediate_Python,Python_material,1
+Phillip,14,M,UK,England,London,Businessperson,Lower Middle,2,53,3,101,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Molly,17,F,Canada,Quebec,Montreal,Doctor,Lower Middle,2,54,3,109,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Justin,13,F,Canada,Ontario,Toronto,Engineer,Lower Middle,3,83,2,121,9,9,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Timothy,16,M,USA,New York,New York City,Businessperson,High,1,42,6,101,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Dennis,8,M,Canada,Quebec,Quebec City,Farmer,Lower Middle,3,91,3,122,9,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Lacey,13,M,USA,Texas,Houston,Businessperson,High,2,63,6,106,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Wendy,15,F,USA,California,San Francisco,Farmer,Upper Middle,2,55,5,110,8,9,2,5,50,15,20,Intermediate_Python,Python_material,1
+Amber,8,F,UK,Scotland,Glasgow,IT Professional,Lower Middle,1,36,4,94,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Michael,12,F,Canada,Ontario,Toronto,IT Professional,Lower Middle,1,44,5,93,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Emily,9,F,India,Delhi,New Delhi,Clerk,Lower Middle,3,78,8,124,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Cynthia,10,F,USA,New York,Buffalo,Doctor,Low,3,77,6,112,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Rose,8,M,UK,Scotland,Glasgow,Farmer,Lower Middle,2,56,8,103,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Tina,8,M,USA,Texas,Dallas,Teacher,Lower Middle,2,59,6,102,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Samuel,18,M,India,Tamil Nadu,Chennai,IT Professional,High,1,47,6,95,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Kathleen,17,F,UK,England,Manchester,Farmer,Low,1,44,1,90,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Susan,16,F,India,Delhi,New Delhi,Farmer,High,1,46,4,97,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Debra,13,F,UK,Scotland,Edinburgh,Farmer,High,3,82,6,120,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Heidi,14,F,Canada,Quebec,Quebec City,Farmer,High,1,47,1,104,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Lisa,8,F,Canada,Quebec,Quebec City,Engineer,Low,2,56,7,98,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Scott,9,F,Canada,Quebec,Montreal,Farmer,Low,3,88,6,130,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Jennifer,14,M,UK,England,London,Doctor,Upper Middle,1,45,4,99,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Nancy,18,M,India,Tamil Nadu,Coimbatore,Businessperson,Lower Middle,1,30,5,88,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Stephen,14,F,UK,England,London,Laborer,Lower Middle,1,50,1,101,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+John,17,F,Canada,Ontario,Ottawa,Laborer,High,3,83,3,118,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Lisa,13,M,India,Tamil Nadu,Coimbatore,IT Professional,Upper Middle,2,54,4,103,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kimberly,14,M,India,Maharashtra,Pune,Doctor,Upper Middle,1,34,2,93,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Hannah,14,F,USA,Texas,Houston,Clerk,Upper Middle,3,78,4,116,7,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Angela,14,F,UK,Scotland,Glasgow,Teacher,Low,1,44,2,86,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+John,10,F,Canada,Ontario,Ottawa,Laborer,Upper Middle,2,57,5,108,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Brandon,17,M,India,Tamil Nadu,Chennai,Farmer,Upper Middle,3,94,8,136,10,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Eric,17,M,USA,Texas,Dallas,Clerk,Low,2,63,8,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Vicki,8,M,USA,California,San Francisco,Engineer,Upper Middle,3,79,2,112,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Connie,11,F,Canada,Quebec,Quebec City,Farmer,High,1,33,1,91,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Kenneth,18,F,UK,England,London,Farmer,Lower Middle,2,65,5,106,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Matthew,8,M,UK,Scotland,Glasgow,Clerk,Low,1,28,4,85,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Alyssa,13,M,India,Delhi,New Delhi,Teacher,Low,1,42,1,87,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Leon,8,M,India,Tamil Nadu,Coimbatore,Teacher,Lower Middle,3,100,6,135,10,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Jonathan,18,M,India,Delhi,New Delhi,Businessperson,High,2,51,3,103,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Joe,8,F,UK,England,London,Businessperson,Lower Middle,2,54,4,106,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+John,14,F,UK,England,Manchester,Teacher,High,3,76,6,120,9,9,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Anna,12,F,USA,California,Los Angeles,Farmer,Upper Middle,3,99,4,137,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Jessica,10,M,UK,Scotland,Edinburgh,Clerk,Lower Middle,3,91,4,125,8,9,3,5,50,10,15,Learn_Good_Python,Python_material,1
+Robert,13,F,USA,California,San Francisco,IT Professional,High,1,38,4,97,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Nathaniel,12,M,USA,California,Los Angeles,Doctor,Upper Middle,2,51,2,95,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Robert,18,M,USA,California,Los Angeles,Teacher,Upper Middle,1,34,3,89,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+James,10,F,Canada,Ontario,Toronto,Farmer,Low,1,46,1,89,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+George,12,M,India,Tamil Nadu,Coimbatore,Engineer,High,1,47,2,105,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Dakota,9,F,Canada,Ontario,Ottawa,IT Professional,Lower Middle,3,100,4,134,9,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Steven,18,F,USA,Texas,Dallas,Farmer,Low,1,46,6,91,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Jason,8,M,UK,England,Manchester,Clerk,High,1,47,2,98,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Clarence,17,M,India,Tamil Nadu,Coimbatore,Laborer,High,2,75,6,120,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Joshua,12,M,USA,Texas,Houston,IT Professional,Low,1,49,1,103,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Alexis,18,F,USA,Texas,Houston,Businessperson,Lower Middle,1,38,2,90,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Garrett,12,M,UK,England,Manchester,Doctor,Lower Middle,3,89,4,121,6,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Daniel,11,F,USA,California,San Francisco,Farmer,Low,3,87,8,122,8,9,3,5,50,10,15,Learn_Good_Python,Python_material,1
+Christian,17,M,UK,England,Manchester,Engineer,Upper Middle,1,44,6,93,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Martha,16,F,UK,Scotland,Glasgow,Farmer,Upper Middle,1,47,5,104,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Daniel,12,F,USA,New York,Buffalo,Farmer,Low,1,44,1,86,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Samantha,9,F,Canada,Quebec,Quebec City,Farmer,Lower Middle,1,41,4,96,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Lisa,13,F,USA,New York,Buffalo,Businessperson,Upper Middle,1,31,4,88,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Joseph,8,M,USA,California,Los Angeles,IT Professional,Low,1,27,3,86,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Aaron,12,M,UK,Scotland,Edinburgh,IT Professional,High,1,36,1,90,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Seth,12,F,USA,California,San Francisco,Teacher,High,3,85,2,124,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Margaret,14,M,India,Maharashtra,Pune,Engineer,Low,2,52,7,107,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Sara,8,M,UK,England,London,Doctor,Upper Middle,1,49,2,104,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Denise,14,F,UK,Scotland,Edinburgh,Clerk,Upper Middle,1,44,2,88,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Sylvia,18,F,India,Maharashtra,Pune,Clerk,Low,2,61,8,109,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Corey,11,F,USA,California,Los Angeles,Laborer,Low,1,50,5,103,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Jennifer,15,F,Canada,Quebec,Quebec City,Laborer,Low,1,46,4,87,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Matthew,15,M,Canada,Quebec,Montreal,Clerk,Upper Middle,1,42,3,93,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Zachary,17,M,India,Tamil Nadu,Coimbatore,Businessperson,High,2,60,6,108,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Sara,14,M,UK,Scotland,Glasgow,Engineer,Upper Middle,1,45,1,85,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Timothy,9,M,Canada,Ontario,Ottawa,Businessperson,Low,2,60,4,104,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Holly,15,F,Canada,Ontario,Toronto,Doctor,Lower Middle,2,61,4,106,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Daniel,10,F,India,Delhi,New Delhi,Laborer,Low,1,38,1,88,2,3,1,7,30,15,25,Basic_Python,Python_material,1
+Jacob,13,M,Canada,Ontario,Toronto,Farmer,Low,1,47,4,87,2,3,1,7,30,15,25,Basic_Python,Python_material,1
+Alexandra,17,M,USA,Texas,Houston,Businessperson,Low,3,79,7,113,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Jesse,11,F,India,Delhi,New Delhi,Doctor,High,1,43,2,87,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Ashley,15,F,USA,California,San Francisco,Clerk,Upper Middle,1,46,6,94,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Ashley,11,F,Canada,Ontario,Toronto,Farmer,Lower Middle,1,40,2,91,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Amanda,10,F,India,Tamil Nadu,Chennai,Doctor,High,2,70,7,116,8,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Angela,18,M,USA,Texas,Dallas,Engineer,Low,2,62,5,107,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Michael,14,F,Canada,Quebec,Quebec City,Farmer,Upper Middle,2,71,6,111,8,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Norman,9,M,India,Tamil Nadu,Chennai,Businessperson,Lower Middle,2,57,8,108,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Ariana,13,F,UK,Scotland,Glasgow,Clerk,Upper Middle,2,58,2,99,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Tanya,9,M,UK,England,Manchester,Farmer,Lower Middle,1,45,6,98,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Christopher,14,M,India,Tamil Nadu,Chennai,IT Professional,Low,1,46,4,95,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Natalie,8,M,India,Maharashtra,Mumbai,Engineer,High,1,44,6,87,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Jennifer,14,F,Canada,Ontario,Ottawa,Farmer,Low,2,57,2,107,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Julie,17,M,Canada,Ontario,Toronto,Teacher,High,2,57,5,108,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Angela,14,M,India,Tamil Nadu,Chennai,Engineer,High,2,66,2,110,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Taylor,12,M,USA,New York,New York City,Teacher,Upper Middle,1,34,2,85,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Robert,10,F,USA,Texas,Dallas,IT Professional,Upper Middle,2,65,3,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Evan,10,F,UK,Scotland,Edinburgh,Businessperson,High,3,81,3,114,7,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Emily,8,F,USA,New York,Buffalo,Engineer,Low,1,36,2,87,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Kristen,10,F,UK,Scotland,Glasgow,Engineer,Lower Middle,1,27,6,86,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Anthony,12,F,India,Delhi,New Delhi,IT Professional,Low,1,38,6,89,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Edward,14,F,UK,England,London,Teacher,Upper Middle,2,56,7,99,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Angela,11,F,UK,England,London,Laborer,Lower Middle,2,68,6,113,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Benjamin,18,F,India,Delhi,New Delhi,Laborer,Low,2,65,4,114,6,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Tina,10,M,UK,England,London,Farmer,Low,1,42,6,100,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Shannon,14,F,Canada,Ontario,Toronto,Engineer,High,1,48,3,106,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+David,11,F,India,Delhi,New Delhi,IT Professional,Lower Middle,2,55,8,101,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Mark,18,M,India,Delhi,New Delhi,Doctor,Low,2,54,7,105,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Jonathan,16,F,UK,England,London,Engineer,Lower Middle,2,51,2,97,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Mckenzie,13,M,UK,England,Manchester,Businessperson,Lower Middle,2,64,2,112,6,6,2,5,30,12,20,Intermediate_Python,Python_material,1
+Elizabeth,17,M,India,Tamil Nadu,Coimbatore,IT Professional,High,2,70,6,116,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+Stephanie,8,F,UK,Scotland,Glasgow,Farmer,Upper Middle,2,53,5,109,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Michael,14,F,Canada,Quebec,Quebec City,Teacher,Lower Middle,1,29,1,86,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Daniel,8,M,USA,Texas,Houston,Doctor,High,2,57,6,108,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Mario,13,M,UK,England,London,Laborer,Upper Middle,2,71,6,111,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Amanda,12,M,India,Maharashtra,Pune,IT Professional,Upper Middle,1,44,5,85,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Brian,9,F,USA,New York,Buffalo,Businessperson,Low,1,36,2,85,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Linda,12,F,India,Maharashtra,Pune,Farmer,High,2,55,8,100,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jody,11,F,India,Delhi,New Delhi,Doctor,Upper Middle,3,90,3,122,8,9,3,5,50,10,15,Learn_Good_Python,Python_material,1
+Nathan,18,F,USA,Texas,Houston,Doctor,High,3,86,8,122,8,9,3,5,50,10,15,Learn_Good_Python,Python_material,1
+Holly,9,M,Canada,Ontario,Toronto,Teacher,Upper Middle,2,63,8,109,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Ricky,17,F,USA,New York,Buffalo,Doctor,Lower Middle,1,45,1,100,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Jason,8,F,Canada,Quebec,Montreal,Engineer,Upper Middle,2,71,3,118,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+Priscilla,14,M,Canada,Ontario,Ottawa,Laborer,Low,2,66,6,106,6,7,2,7,40,12,20,Intermediate_Python,Python_material,1
+Daniel,15,F,UK,Scotland,Edinburgh,IT Professional,Low,1,37,4,96,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Stephanie,18,F,Canada,Ontario,Ottawa,Farmer,Low,2,52,3,110,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Krystal,8,M,UK,England,Manchester,Teacher,High,2,51,5,110,8,9,2,5,50,15,20,Intermediate_Python,Python_material,1
+Alex,10,F,Canada,Quebec,Quebec City,Engineer,Low,1,47,1,100,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Latoya,9,M,UK,England,Manchester,Farmer,High,2,68,8,111,9,9,2,3,50,12,20,Intermediate_Python,Python_material,1
+Jennifer,15,F,India,Maharashtra,Mumbai,Farmer,Lower Middle,2,53,3,98,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Kaylee,9,F,USA,California,Los Angeles,Teacher,Low,3,76,8,121,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Holly,14,M,USA,New York,Buffalo,Businessperson,Lower Middle,1,33,6,93,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Michelle,14,M,Canada,Ontario,Toronto,IT Professional,Low,3,82,7,131,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Crystal,10,F,UK,England,Manchester,IT Professional,Low,1,42,1,96,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Albert,18,M,Canada,Ontario,Toronto,Laborer,High,1,35,6,88,2,3,1,7,30,15,25,Basic_Python,Python_material,1
+Robert,11,F,India,Delhi,New Delhi,Doctor,Upper Middle,3,81,5,124,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Renee,10,M,USA,California,San Francisco,Engineer,High,3,77,5,124,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+April,10,F,UK,Scotland,Edinburgh,Clerk,Lower Middle,2,60,5,101,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Christopher,18,F,India,Tamil Nadu,Chennai,Engineer,Lower Middle,2,56,4,104,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Lori,8,F,UK,England,London,Teacher,Low,3,80,2,112,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Patrick,15,M,USA,New York,Buffalo,Farmer,Lower Middle,2,58,7,105,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kyle,18,M,India,Maharashtra,Pune,Engineer,High,2,52,4,110,9,10,2,3,50,15,20,Intermediate_Python,Python_material,1
+Michael,12,M,USA,New York,New York City,Laborer,Low,1,49,6,92,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Kristen,10,M,USA,California,Los Angeles,Doctor,High,2,67,6,117,9,10,2,3,50,12,20,Intermediate_Python,Python_material,1
+Kimberly,15,F,India,Maharashtra,Pune,Laborer,Low,1,42,3,86,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Carol,8,M,India,Delhi,New Delhi,Engineer,Lower Middle,1,37,3,90,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Michael,10,M,India,Delhi,New Delhi,Doctor,Upper Middle,2,73,7,115,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+Katelyn,9,F,UK,England,London,Doctor,High,1,37,5,89,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Erica,8,M,Canada,Ontario,Toronto,Engineer,High,2,53,4,109,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Michael,11,F,Canada,Quebec,Quebec City,Laborer,Lower Middle,1,41,2,99,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+William,17,F,India,Maharashtra,Pune,Laborer,High,2,51,6,95,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Marie,15,F,India,Maharashtra,Pune,Teacher,Upper Middle,2,67,5,109,6,5,2,7,30,12,20,Intermediate_Python,Python_material,1
+Kelly,9,F,USA,California,Los Angeles,Doctor,Low,2,73,3,112,9,10,2,3,50,12,20,Intermediate_Python,Python_material,1
+Wendy,17,M,India,Tamil Nadu,Chennai,Businessperson,Lower Middle,1,45,5,92,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Timothy,13,F,India,Maharashtra,Pune,Businessperson,Low,2,55,8,105,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Tracy,12,M,Canada,Quebec,Quebec City,Clerk,Upper Middle,1,43,1,101,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Alicia,11,F,UK,England,Manchester,Businessperson,Low,2,54,4,102,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Denise,10,F,Canada,Ontario,Ottawa,Businessperson,High,2,61,3,108,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Douglas,14,F,USA,New York,Buffalo,Engineer,Lower Middle,1,43,2,99,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Stephen,15,M,UK,England,London,Farmer,High,1,32,2,92,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Donna,15,M,Canada,Quebec,Quebec City,IT Professional,Lower Middle,1,36,4,90,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Kenneth,11,F,India,Delhi,New Delhi,Farmer,Upper Middle,3,89,2,127,7,6,3,3,30,10,15,Learn_Good_Python,Python_material,1
+Max,13,M,Canada,Quebec,Quebec City,Doctor,Upper Middle,1,31,2,85,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Emily,11,F,USA,Texas,Dallas,Clerk,Low,3,81,4,122,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Stephen,16,F,UK,England,London,IT Professional,Low,3,89,7,119,7,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Susan,15,M,USA,New York,Buffalo,Teacher,Lower Middle,2,68,2,108,6,6,2,7,30,12,20,Intermediate_Python,Python_material,1
+Jo,13,M,USA,New York,New York City,Farmer,Lower Middle,1,41,1,85,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Donna,17,F,Canada,Quebec,Montreal,Doctor,Low,1,39,3,86,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Adam,10,M,USA,Texas,Dallas,Teacher,Lower Middle,1,28,1,88,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Joshua,18,F,USA,New York,New York City,IT Professional,Upper Middle,2,68,3,110,7,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Shelby,8,F,Canada,Ontario,Ottawa,IT Professional,High,3,77,7,122,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Cheyenne,10,F,Canada,Quebec,Quebec City,IT Professional,High,1,42,6,99,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Linda,13,F,Canada,Quebec,Quebec City,Teacher,Lower Middle,2,60,3,102,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kayla,18,F,USA,Texas,Houston,IT Professional,High,3,78,6,118,9,10,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Travis,18,F,India,Maharashtra,Pune,IT Professional,Lower Middle,1,39,2,96,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Curtis,14,M,India,Delhi,New Delhi,Clerk,Upper Middle,2,52,6,100,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kathleen,17,M,UK,England,London,Clerk,High,1,41,2,85,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Jesus,11,M,UK,England,Manchester,Clerk,Upper Middle,3,76,3,125,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Jesse,13,F,Canada,Quebec,Montreal,Doctor,Low,3,79,7,121,7,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+David,18,M,USA,Texas,Houston,Clerk,Upper Middle,1,37,4,86,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Steven,14,M,Canada,Quebec,Montreal,Laborer,Upper Middle,2,52,4,110,8,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Tracey,15,F,India,Maharashtra,Pune,IT Professional,High,1,49,6,105,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Kayla,12,M,Canada,Ontario,Ottawa,Engineer,High,1,33,3,91,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Brenda,10,M,USA,California,San Francisco,Doctor,Low,1,48,4,100,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Diane,17,F,India,Maharashtra,Pune,Engineer,Low,3,85,6,120,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Christina,10,M,UK,Scotland,Glasgow,Clerk,Lower Middle,2,73,3,114,6,6,2,5,30,12,20,Intermediate_Python,Python_material,1
+Tommy,13,F,Canada,Ontario,Toronto,Engineer,High,2,58,2,105,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Isaiah,16,F,Canada,Quebec,Quebec City,IT Professional,Low,2,52,2,96,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kathryn,18,M,USA,Texas,Houston,Businessperson,High,1,40,2,100,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Heather,17,M,USA,New York,Buffalo,Doctor,Lower Middle,2,66,3,115,9,10,2,3,50,12,20,Intermediate_Python,Python_material,1
+Carly,12,F,UK,England,Manchester,Doctor,Lower Middle,3,89,5,120,6,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Jessica,8,M,India,Tamil Nadu,Chennai,Teacher,Upper Middle,1,47,3,105,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Rebecca,12,M,Canada,Quebec,Montreal,Teacher,Lower Middle,1,49,2,96,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Randall,10,F,Canada,Quebec,Montreal,Clerk,Upper Middle,3,81,3,124,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Alex,13,M,USA,New York,New York City,Doctor,Lower Middle,1,47,2,99,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Tyler,18,F,Canada,Quebec,Quebec City,Businessperson,Low,1,48,6,97,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+April,13,F,UK,England,London,Farmer,Lower Middle,2,62,2,102,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Roy,17,M,Canada,Ontario,Toronto,Clerk,High,2,53,6,100,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Kelly,14,F,UK,Scotland,Edinburgh,Clerk,Low,3,84,6,115,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Christian,9,M,USA,Texas,Dallas,Engineer,Lower Middle,3,92,2,124,7,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+David,9,F,UK,England,London,Doctor,Low,1,36,1,89,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+William,17,M,Canada,Quebec,Montreal,Farmer,Lower Middle,1,41,5,94,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Kayla,8,F,India,Delhi,New Delhi,Engineer,Upper Middle,3,85,7,118,7,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Wyatt,17,F,USA,New York,Buffalo,Businessperson,Lower Middle,1,32,5,88,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Stephanie,9,M,India,Delhi,New Delhi,IT Professional,Lower Middle,2,64,7,104,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Scott,17,M,UK,England,London,Laborer,Lower Middle,2,54,4,97,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+David,9,F,UK,Scotland,Edinburgh,Farmer,High,3,97,2,129,6,5,3,3,30,10,15,Learn_Good_Python,Python_material,1
+Lindsay,16,F,USA,Texas,Dallas,Clerk,Lower Middle,2,64,5,106,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Brandon,16,F,UK,Scotland,Edinburgh,Clerk,Lower Middle,1,44,5,89,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Joy,18,F,India,Maharashtra,Mumbai,Teacher,High,2,51,8,99,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Tyler,16,F,USA,New York,Buffalo,Doctor,High,2,56,7,102,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Gary,10,F,India,Tamil Nadu,Coimbatore,Clerk,Lower Middle,1,37,1,94,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Terri,9,M,UK,Scotland,Edinburgh,Teacher,High,3,85,7,125,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Andre,9,F,USA,Texas,Dallas,Farmer,High,1,39,1,92,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Amy,15,M,USA,California,San Francisco,Laborer,Lower Middle,1,39,6,90,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Nicholas,16,M,India,Maharashtra,Pune,Teacher,High,3,88,4,121,6,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Shelby,10,F,Canada,Ontario,Ottawa,Farmer,Low,1,34,2,92,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Douglas,18,F,USA,California,Los Angeles,Teacher,High,1,47,1,97,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Joe,11,M,India,Delhi,New Delhi,Clerk,Upper Middle,1,34,1,92,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Mike,16,M,USA,Texas,Dallas,Businessperson,High,1,35,1,94,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Andrew,18,M,USA,New York,Buffalo,Clerk,Upper Middle,1,45,6,102,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Javier,14,M,Canada,Ontario,Toronto,Doctor,Lower Middle,3,88,8,129,7,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Rachel,12,M,UK,England,London,Engineer,High,2,68,6,118,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+David,15,F,India,Tamil Nadu,Chennai,Farmer,Upper Middle,2,51,7,95,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Kathleen,10,M,Canada,Ontario,Toronto,IT Professional,High,2,62,2,111,9,8,2,3,40,12,20,Intermediate_Python,Python_material,1
+Sarah,8,M,India,Tamil Nadu,Chennai,Clerk,Low,2,53,5,105,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+James,11,M,USA,California,Los Angeles,Teacher,Upper Middle,3,95,6,130,10,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Cindy,15,F,USA,Texas,Dallas,Engineer,Low,2,70,5,111,9,8,2,3,40,12,20,Intermediate_Python,Python_material,1
+Jennifer,13,M,USA,New York,New York City,Farmer,High,2,67,7,107,7,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Cindy,8,M,UK,Scotland,Glasgow,Laborer,Lower Middle,2,72,6,122,6,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Andrew,16,M,USA,California,San Francisco,Clerk,High,3,83,5,123,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Robert,13,M,USA,California,Los Angeles,Engineer,Upper Middle,3,100,6,137,8,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Monica,16,M,Canada,Ontario,Toronto,Businessperson,Lower Middle,2,61,3,102,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Melissa,11,F,India,Tamil Nadu,Chennai,Engineer,Low,3,88,2,124,7,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Richard,11,M,USA,Texas,Dallas,Businessperson,High,1,46,2,86,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Jennifer,16,F,Canada,Ontario,Ottawa,Teacher,Lower Middle,2,53,4,106,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Christina,14,F,India,Tamil Nadu,Chennai,Clerk,Low,2,73,8,111,9,9,2,3,50,12,20,Intermediate_Python,Python_material,1
+Sean,9,M,Canada,Quebec,Quebec City,IT Professional,Low,2,60,5,100,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Sarah,14,M,India,Tamil Nadu,Coimbatore,Engineer,Low,2,59,7,101,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Haley,9,M,India,Delhi,New Delhi,IT Professional,Lower Middle,1,37,2,90,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Kenneth,17,M,UK,Scotland,Edinburgh,IT Professional,Upper Middle,3,96,4,127,6,5,3,3,30,10,15,Learn_Good_Python,Python_material,1
+Cory,10,M,USA,California,San Francisco,Clerk,High,3,79,2,123,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Lindsay,11,F,Canada,Quebec,Montreal,Clerk,Lower Middle,1,39,3,91,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Amy,12,M,UK,England,Manchester,Farmer,Upper Middle,2,63,5,106,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Adam,8,M,USA,California,Los Angeles,Clerk,Low,1,47,3,105,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Jennifer,18,M,UK,England,Manchester,Engineer,Lower Middle,1,38,5,95,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Ricardo,11,M,UK,Scotland,Edinburgh,Teacher,Upper Middle,2,51,2,102,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Bailey,15,F,India,Maharashtra,Mumbai,Clerk,High,1,40,3,93,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Amy,15,M,India,Delhi,New Delhi,Doctor,Low,2,51,2,102,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Julie,12,M,India,Delhi,New Delhi,Businessperson,High,3,89,7,128,7,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Logan,16,F,UK,Scotland,Glasgow,IT Professional,High,1,41,5,101,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Jason,12,F,Canada,Ontario,Ottawa,Businessperson,Upper Middle,2,55,3,105,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kelly,10,M,UK,England,Manchester,Doctor,Low,1,46,1,94,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Scott,13,M,Canada,Ontario,Toronto,Doctor,High,2,57,8,110,8,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Ethan,10,M,USA,California,San Francisco,IT Professional,Lower Middle,1,40,6,93,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Joseph,17,M,USA,New York,Buffalo,Doctor,Low,1,40,5,85,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Melissa,17,M,UK,England,Manchester,Farmer,High,3,90,7,134,8,7,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Lauren,15,M,India,Tamil Nadu,Chennai,IT Professional,Upper Middle,3,89,2,125,6,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Jeffrey,18,M,Canada,Quebec,Quebec City,Teacher,Lower Middle,1,50,1,97,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Clifford,15,M,UK,England,Manchester,Engineer,Low,1,50,6,105,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Sabrina,15,F,USA,New York,New York City,Doctor,High,2,56,3,97,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Vicki,10,M,UK,Scotland,Glasgow,Farmer,Upper Middle,1,36,3,89,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Audrey,16,M,India,Maharashtra,Pune,IT Professional,Low,1,46,1,101,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Albert,9,M,USA,Texas,Dallas,IT Professional,Upper Middle,1,34,3,85,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Jack,15,M,USA,New York,New York City,Teacher,Lower Middle,1,29,5,88,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Carolyn,10,F,India,Delhi,New Delhi,Clerk,Low,2,64,3,105,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Christopher,11,M,India,Maharashtra,Pune,Laborer,Lower Middle,1,37,5,92,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Amanda,14,F,India,Tamil Nadu,Chennai,Doctor,Lower Middle,1,46,5,90,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Jonathan,8,F,USA,California,San Francisco,Clerk,Low,3,82,4,112,7,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Cynthia,17,M,USA,California,San Francisco,Teacher,Low,2,58,2,107,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Derrick,11,F,USA,California,San Francisco,IT Professional,Upper Middle,2,66,2,106,7,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Jennifer,18,M,Canada,Ontario,Toronto,Laborer,High,1,37,1,86,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Adam,10,F,UK,Scotland,Glasgow,Businessperson,Upper Middle,1,46,5,91,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Todd,17,M,UK,Scotland,Edinburgh,Businessperson,Low,1,37,4,92,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Tonya,14,F,USA,Texas,Dallas,Laborer,Lower Middle,1,42,3,98,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Seth,9,F,India,Tamil Nadu,Coimbatore,Laborer,Lower Middle,1,46,6,91,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Margaret,10,M,Canada,Quebec,Montreal,Laborer,High,2,72,7,121,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+Alexander,14,F,Canada,Ontario,Ottawa,Clerk,Upper Middle,1,34,2,92,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Dawn,9,F,Canada,Quebec,Quebec City,Clerk,High,1,39,3,87,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Ann,14,M,UK,England,London,Laborer,Low,3,80,4,119,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Beth,16,F,Canada,Ontario,Toronto,Engineer,High,2,51,5,94,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jose,17,M,UK,England,London,IT Professional,High,2,52,8,92,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Marissa,8,F,USA,Texas,Houston,Laborer,Lower Middle,1,39,6,99,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Brandon,12,M,Canada,Ontario,Ottawa,Clerk,Low,1,43,4,88,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Melissa,10,M,USA,California,San Francisco,Engineer,Upper Middle,2,55,8,104,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Sarah,10,M,UK,England,Manchester,Laborer,High,2,55,7,101,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Hayley,8,M,Canada,Quebec,Montreal,Laborer,Upper Middle,1,42,3,101,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Debra,11,M,USA,Texas,Dallas,Doctor,High,1,47,3,100,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Natalie,18,M,UK,England,Manchester,Laborer,Upper Middle,3,99,3,130,8,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Patrick,11,M,USA,Texas,Houston,Engineer,Low,1,29,4,88,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Victoria,15,M,USA,New York,New York City,IT Professional,Upper Middle,2,54,6,100,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Antonio,18,M,India,Maharashtra,Pune,Engineer,Upper Middle,1,45,1,91,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+James,15,F,UK,England,London,Businessperson,Upper Middle,3,76,4,115,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Jesse,8,M,USA,Texas,Dallas,Teacher,Lower Middle,1,28,2,87,2,3,1,7,30,15,25,Basic_Python,Python_material,1
+Troy,11,M,India,Tamil Nadu,Chennai,Businessperson,Low,1,44,1,94,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Mark,8,M,USA,Texas,Dallas,Teacher,Lower Middle,2,64,8,114,9,9,2,3,50,12,20,Intermediate_Python,Python_material,1
+Jose,12,F,Canada,Quebec,Quebec City,Farmer,Lower Middle,3,85,7,121,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Aaron,13,F,USA,California,Los Angeles,Doctor,Low,1,47,6,103,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Kaitlyn,14,M,UK,England,London,Clerk,Lower Middle,1,45,1,100,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Sabrina,9,F,USA,Texas,Houston,Teacher,Low,3,84,7,124,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Sharon,13,F,Canada,Ontario,Ottawa,Laborer,Low,2,73,8,116,7,6,2,5,30,12,20,Intermediate_Python,Python_material,1
+Chase,14,M,Canada,Ontario,Toronto,Teacher,Lower Middle,3,88,6,121,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Derek,18,F,India,Maharashtra,Mumbai,Doctor,Upper Middle,3,79,3,117,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Catherine,9,F,USA,California,San Francisco,Farmer,Low,3,81,5,129,8,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Ryan,17,M,UK,Scotland,Edinburgh,Doctor,Upper Middle,1,33,4,87,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Marcus,15,M,USA,Texas,Dallas,IT Professional,Low,1,49,5,107,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Thomas,10,F,USA,Texas,Houston,Farmer,Lower Middle,1,46,6,102,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Scott,16,F,Canada,Quebec,Montreal,Engineer,Upper Middle,2,57,2,102,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Matthew,14,M,Canada,Quebec,Quebec City,IT Professional,High,1,47,4,98,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Larry,18,F,India,Delhi,New Delhi,Businessperson,Upper Middle,2,61,6,101,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Diana,9,F,USA,Texas,Houston,IT Professional,High,1,49,4,98,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Shelby,14,F,USA,California,Los Angeles,Engineer,High,3,97,5,131,9,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Robert,14,F,India,Delhi,New Delhi,Engineer,Lower Middle,3,79,3,122,7,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Susan,12,F,UK,Scotland,Glasgow,Engineer,Lower Middle,3,76,7,124,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Jesus,10,M,India,Maharashtra,Mumbai,Farmer,Upper Middle,3,88,2,122,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Latasha,17,F,Canada,Ontario,Toronto,Laborer,High,1,48,4,103,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Matthew,8,F,Canada,Quebec,Quebec City,Doctor,Low,2,56,2,100,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Marcus,14,F,India,Maharashtra,Mumbai,Doctor,High,1,43,5,96,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Kelly,16,F,USA,California,San Francisco,Farmer,Upper Middle,1,30,2,85,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Tasha,10,M,Canada,Quebec,Montreal,Engineer,Upper Middle,2,54,8,99,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Latoya,10,M,UK,Scotland,Edinburgh,Laborer,Low,2,72,3,114,7,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Jessica,9,F,USA,New York,New York City,Farmer,High,2,71,6,120,9,8,2,3,40,12,20,Intermediate_Python,Python_material,1
+Mark,10,F,India,Tamil Nadu,Coimbatore,Farmer,High,1,38,5,87,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Jeffrey,14,M,USA,Texas,Houston,Clerk,High,1,30,3,85,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Brenda,10,F,USA,California,San Francisco,Laborer,Lower Middle,2,75,8,117,7,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Veronica,8,M,UK,England,London,Doctor,Lower Middle,1,43,3,100,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Brandy,16,M,Canada,Quebec,Quebec City,Teacher,High,1,38,4,93,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Amy,10,M,UK,England,London,Laborer,Upper Middle,3,85,5,117,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Erica,12,M,USA,Texas,Dallas,Businessperson,Upper Middle,3,92,6,136,10,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Brianna,11,M,India,Delhi,New Delhi,Businessperson,Low,1,46,1,91,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Erica,14,M,Canada,Quebec,Quebec City,Laborer,Low,2,63,3,107,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Ryan,16,F,UK,Scotland,Glasgow,Farmer,Lower Middle,1,42,2,86,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Brenda,10,M,USA,New York,Buffalo,Engineer,Lower Middle,1,39,2,86,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Ryan,16,F,USA,New York,Buffalo,Doctor,High,1,43,5,94,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Samuel,10,M,UK,England,Manchester,Teacher,Low,1,41,6,101,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Robert,15,M,USA,New York,Buffalo,Doctor,High,3,99,7,140,9,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Shawn,11,F,UK,Scotland,Glasgow,IT Professional,Lower Middle,2,64,3,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Ralph,18,M,India,Delhi,New Delhi,Businessperson,Lower Middle,1,33,4,93,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Jimmy,18,F,Canada,Ontario,Toronto,Clerk,High,1,37,2,86,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Katherine,17,M,UK,Scotland,Glasgow,Teacher,Lower Middle,1,44,1,90,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Patricia,8,F,Canada,Quebec,Montreal,Doctor,High,1,47,3,92,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Virginia,11,M,India,Tamil Nadu,Coimbatore,Businessperson,Lower Middle,3,81,2,120,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Devon,12,F,India,Tamil Nadu,Chennai,Engineer,High,2,72,5,115,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Sarah,13,F,Canada,Quebec,Quebec City,Farmer,Lower Middle,1,41,3,85,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Amy,12,M,Canada,Ontario,Toronto,IT Professional,Upper Middle,2,64,6,104,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jessica,17,M,USA,California,San Francisco,Teacher,High,2,65,6,107,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Kenneth,12,F,Canada,Ontario,Toronto,IT Professional,Upper Middle,3,79,4,119,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Brett,9,F,UK,England,Manchester,IT Professional,High,3,99,7,129,6,7,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Jessica,8,M,India,Maharashtra,Mumbai,Farmer,Upper Middle,1,50,5,102,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Kathryn,18,F,India,Maharashtra,Mumbai,Clerk,Upper Middle,1,50,2,101,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Amy,10,F,Canada,Ontario,Ottawa,IT Professional,Low,2,56,3,105,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Mary,9,F,Canada,Ontario,Toronto,Teacher,Upper Middle,3,76,3,126,8,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Mary,8,F,India,Delhi,New Delhi,IT Professional,High,1,42,2,96,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Aaron,14,M,USA,California,San Francisco,Teacher,Low,1,31,2,88,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Karen,17,F,Canada,Quebec,Montreal,Farmer,Low,2,68,5,111,8,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Kylie,9,M,India,Tamil Nadu,Chennai,Doctor,Low,1,46,5,96,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Chloe,8,F,UK,Scotland,Edinburgh,Teacher,Lower Middle,3,87,2,137,8,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Sarah,9,M,UK,England,Manchester,Doctor,Lower Middle,1,39,4,98,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+William,11,M,Canada,Ontario,Toronto,Teacher,Lower Middle,2,51,5,99,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Janice,13,F,Canada,Quebec,Quebec City,Businessperson,High,2,58,3,107,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Heather,10,M,UK,Scotland,Edinburgh,Businessperson,Upper Middle,2,52,8,94,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Wendy,11,F,Canada,Quebec,Quebec City,Businessperson,Low,1,45,5,100,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Matthew,14,M,UK,England,Manchester,Farmer,Lower Middle,2,66,3,113,7,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Toni,9,M,USA,New York,Buffalo,Clerk,Lower Middle,3,77,6,121,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Denise,14,F,India,Tamil Nadu,Chennai,Doctor,High,3,95,4,132,10,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Katherine,9,F,UK,Scotland,Edinburgh,Engineer,Low,3,87,7,125,6,5,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Alexa,18,M,UK,England,London,Teacher,High,3,78,2,111,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Cameron,15,M,USA,California,San Francisco,Engineer,Upper Middle,2,51,8,106,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Robin,18,M,India,Delhi,New Delhi,Laborer,Lower Middle,2,57,5,100,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Michelle,18,M,USA,California,San Francisco,Laborer,Upper Middle,1,47,1,100,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Gloria,10,F,India,Delhi,New Delhi,Doctor,High,3,81,3,116,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Richard,14,M,India,Tamil Nadu,Chennai,Farmer,Lower Middle,2,57,5,108,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jack,13,F,USA,California,San Francisco,Doctor,High,2,74,8,121,8,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Jennifer,18,M,USA,Texas,Dallas,Farmer,Upper Middle,1,46,6,99,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Vincent,16,F,Canada,Quebec,Quebec City,Clerk,Low,1,46,5,106,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Lisa,10,M,UK,England,Manchester,Farmer,Upper Middle,2,51,7,97,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Micheal,12,M,India,Tamil Nadu,Chennai,Laborer,Low,1,31,3,88,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Madison,17,F,UK,Scotland,Glasgow,Clerk,Lower Middle,1,44,1,88,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Rachel,12,F,India,Delhi,New Delhi,Engineer,High,2,70,6,119,7,6,2,5,30,12,20,Intermediate_Python,Python_material,1
+Steven,13,F,USA,Texas,Houston,Teacher,High,3,83,3,114,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Sharon,16,F,India,Maharashtra,Pune,Teacher,Low,2,54,6,104,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Eric,18,F,USA,Texas,Dallas,Businessperson,Lower Middle,2,61,2,101,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Devin,11,F,Canada,Quebec,Quebec City,Teacher,Lower Middle,3,90,6,122,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Jacob,17,M,USA,California,Los Angeles,Teacher,Low,2,72,5,112,9,9,2,3,50,12,20,Intermediate_Python,Python_material,1
+Drew,15,F,USA,California,Los Angeles,Doctor,Lower Middle,2,51,5,99,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Aaron,10,M,USA,California,Los Angeles,Doctor,Lower Middle,1,39,2,94,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Amber,17,F,India,Delhi,New Delhi,Farmer,Lower Middle,1,49,5,100,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Maurice,17,F,Canada,Ontario,Ottawa,Teacher,Lower Middle,1,34,3,92,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Sarah,15,F,USA,New York,Buffalo,IT Professional,Lower Middle,2,68,5,115,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Carl,9,M,UK,Scotland,Glasgow,Doctor,Low,1,47,2,92,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Timothy,15,F,USA,California,San Francisco,IT Professional,Lower Middle,1,40,6,98,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Mark,15,F,USA,California,Los Angeles,Engineer,Upper Middle,2,55,2,107,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Adam,15,M,Canada,Ontario,Ottawa,Teacher,Low,1,41,1,97,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+David,12,F,USA,Texas,Dallas,Engineer,Lower Middle,2,52,2,94,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Sean,15,M,UK,Scotland,Glasgow,Clerk,Low,1,46,3,90,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+David,13,M,USA,New York,Buffalo,Laborer,Lower Middle,1,29,6,86,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Stephanie,9,M,USA,California,San Francisco,Engineer,Low,1,47,2,92,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Monique,17,F,India,Maharashtra,Pune,Clerk,Lower Middle,1,48,4,97,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Larry,12,F,UK,England,London,Clerk,Low,1,47,4,96,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Steven,18,M,USA,California,San Francisco,Teacher,Upper Middle,1,50,2,102,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Dana,18,M,India,Maharashtra,Mumbai,Teacher,High,2,57,3,97,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Ryan,13,F,Canada,Quebec,Montreal,Farmer,Lower Middle,2,58,2,104,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Victoria,14,M,Canada,Quebec,Quebec City,Clerk,High,1,38,3,88,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Jonathan,8,F,India,Delhi,New Delhi,Engineer,Lower Middle,3,76,8,119,7,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Lauren,12,M,USA,New York,New York City,IT Professional,Upper Middle,3,82,8,124,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Darren,16,F,USA,Texas,Dallas,Doctor,Low,1,37,1,88,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Zachary,12,F,USA,Texas,Dallas,Clerk,Lower Middle,1,36,3,85,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Mario,13,M,USA,California,Los Angeles,Teacher,Low,2,73,7,113,6,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Timothy,17,F,India,Maharashtra,Mumbai,Engineer,High,1,40,6,96,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Timothy,18,F,USA,New York,Buffalo,IT Professional,Lower Middle,2,70,7,115,7,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Jennifer,17,M,India,Maharashtra,Pune,Teacher,Upper Middle,1,33,5,92,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Timothy,9,F,Canada,Quebec,Quebec City,Engineer,Low,2,53,2,107,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Alison,17,M,USA,Texas,Houston,Doctor,High,2,60,7,109,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Ashley,9,M,India,Tamil Nadu,Coimbatore,Teacher,Lower Middle,3,79,8,122,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Matthew,18,F,India,Maharashtra,Mumbai,Laborer,Low,1,37,6,89,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Johnathan,11,F,Canada,Quebec,Montreal,Businessperson,Upper Middle,2,64,5,111,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+Jacqueline,16,F,Canada,Quebec,Montreal,Doctor,High,3,87,8,123,8,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Kathryn,9,M,Canada,Ontario,Ottawa,Engineer,Low,3,80,8,118,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Jeffrey,17,F,USA,New York,New York City,Teacher,Low,1,40,1,99,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Kelly,13,F,Canada,Quebec,Montreal,Businessperson,Upper Middle,3,82,2,124,9,9,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Victoria,10,M,India,Tamil Nadu,Coimbatore,Teacher,High,2,65,2,113,9,8,2,3,40,12,20,Intermediate_Python,Python_material,1
+Robert,12,M,Canada,Ontario,Toronto,Farmer,Low,3,91,3,124,6,5,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Frances,15,F,UK,England,Manchester,Businessperson,Lower Middle,2,53,4,103,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Jake,17,F,Canada,Ontario,Toronto,Teacher,Upper Middle,1,35,6,89,2,2,1,7,30,15,25,Basic_Python,Python_material,1
+Beth,13,F,Canada,Quebec,Quebec City,Businessperson,High,3,83,3,117,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Marie,8,M,Canada,Ontario,Ottawa,Farmer,Upper Middle,1,45,5,89,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Mary,13,F,UK,England,Manchester,Laborer,High,1,33,1,87,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Lisa,9,M,Canada,Quebec,Montreal,Farmer,Lower Middle,3,76,7,125,7,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Kimberly,15,M,UK,Scotland,Edinburgh,IT Professional,Lower Middle,3,80,4,111,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Kevin,14,F,Canada,Ontario,Ottawa,IT Professional,Lower Middle,1,28,1,88,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Michelle,11,F,India,Delhi,New Delhi,Laborer,High,1,36,3,88,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Sarah,14,M,India,Maharashtra,Mumbai,Laborer,High,3,81,5,114,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Susan,10,M,UK,Scotland,Glasgow,IT Professional,Upper Middle,2,64,5,104,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kimberly,17,M,India,Tamil Nadu,Chennai,Teacher,High,2,74,2,116,6,5,2,5,30,12,20,Intermediate_Python,Python_material,1
+Gabriel,8,M,India,Delhi,New Delhi,Engineer,High,2,53,3,99,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Bradley,12,F,USA,Texas,Houston,Teacher,High,3,100,7,131,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Rickey,12,M,UK,England,Manchester,Farmer,Upper Middle,3,92,6,125,6,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Ryan,12,M,USA,New York,Buffalo,IT Professional,High,2,56,7,110,9,8,2,3,40,15,20,Intermediate_Python,Python_material,1
+Kimberly,14,M,Canada,Quebec,Quebec City,Laborer,Low,2,58,6,98,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Daniel,18,M,UK,England,Manchester,Clerk,Upper Middle,2,54,5,102,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+James,13,M,India,Delhi,New Delhi,IT Professional,Low,2,55,2,105,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Christina,11,M,USA,California,San Francisco,Businessperson,Lower Middle,1,39,3,86,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Linda,14,M,UK,Scotland,Edinburgh,Teacher,Lower Middle,3,82,5,112,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Kelsey,17,F,Canada,Quebec,Montreal,Laborer,Lower Middle,1,44,1,103,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Gregory,10,M,USA,Texas,Dallas,Teacher,Low,1,37,3,96,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+David,11,F,India,Tamil Nadu,Coimbatore,Engineer,Upper Middle,1,33,4,86,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Lauren,18,F,USA,New York,New York City,Doctor,Lower Middle,1,36,5,90,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Pedro,13,M,India,Maharashtra,Mumbai,Doctor,Upper Middle,2,57,4,103,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Sonya,15,M,Canada,Ontario,Ottawa,Farmer,Lower Middle,1,37,2,89,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Hunter,14,F,USA,Texas,Houston,Clerk,High,1,32,6,91,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Roberto,18,F,USA,California,San Francisco,Laborer,Upper Middle,1,38,3,96,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Veronica,12,M,UK,England,London,Teacher,Lower Middle,3,77,5,122,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Phillip,13,M,India,Tamil Nadu,Chennai,Clerk,Upper Middle,2,63,6,113,7,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Justin,15,F,India,Tamil Nadu,Chennai,Engineer,Lower Middle,1,50,6,106,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Raymond,13,F,USA,California,Los Angeles,Doctor,Upper Middle,1,42,5,95,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Carolyn,8,F,India,Maharashtra,Pune,Engineer,High,2,56,5,110,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Samantha,15,M,Canada,Ontario,Ottawa,Teacher,Upper Middle,1,35,5,95,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Katie,8,F,UK,England,London,Teacher,Low,1,45,6,88,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Beth,13,F,UK,Scotland,Glasgow,Businessperson,Lower Middle,1,46,4,103,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Gary,15,M,Canada,Ontario,Ottawa,Businessperson,Lower Middle,3,81,4,125,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Judith,11,M,UK,England,London,Teacher,High,2,69,3,111,6,6,2,5,30,12,20,Intermediate_Python,Python_material,1
+Roger,13,M,USA,New York,New York City,Laborer,Low,3,94,6,126,9,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Carol,10,F,UK,England,London,Teacher,Low,1,39,5,99,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Virginia,17,F,India,Delhi,New Delhi,Laborer,Upper Middle,2,65,6,106,4,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Linda,10,M,USA,California,Los Angeles,Businessperson,Lower Middle,2,53,3,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Cynthia,9,F,Canada,Ontario,Toronto,Teacher,Low,2,56,4,97,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+David,17,F,UK,England,Manchester,Teacher,Low,1,48,6,97,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Denise,17,F,USA,California,San Francisco,IT Professional,Lower Middle,1,41,1,86,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Andrew,11,M,Canada,Quebec,Montreal,Laborer,Upper Middle,1,41,3,101,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Robert,11,F,USA,New York,New York City,Farmer,High,2,66,6,110,9,8,2,3,40,12,20,Intermediate_Python,Python_material,1
+David,13,F,USA,Texas,Dallas,Businessperson,Lower Middle,2,57,7,98,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Stephanie,11,F,India,Maharashtra,Mumbai,Teacher,Low,2,66,3,110,6,7,2,7,40,12,20,Intermediate_Python,Python_material,1
+Timothy,11,F,USA,California,Los Angeles,Businessperson,Upper Middle,2,62,6,111,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Karen,9,M,UK,Scotland,Edinburgh,Teacher,High,2,52,7,92,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Stephanie,14,M,Canada,Quebec,Quebec City,Clerk,Low,2,55,2,108,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Erin,17,F,USA,California,Los Angeles,Farmer,Upper Middle,1,36,3,90,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Christopher,8,F,India,Maharashtra,Pune,Laborer,Lower Middle,3,79,5,117,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Shaun,13,F,UK,England,Manchester,Engineer,Low,1,49,1,102,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Emily,15,M,USA,California,Los Angeles,Clerk,High,2,55,6,98,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+James,8,F,USA,Texas,Houston,Clerk,High,2,58,8,98,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jennifer,16,M,USA,Texas,Houston,Clerk,Upper Middle,2,64,8,110,8,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Anthony,8,M,India,Maharashtra,Pune,Doctor,Upper Middle,1,43,1,98,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Matthew,14,F,India,Maharashtra,Mumbai,Farmer,Lower Middle,3,78,3,115,7,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Tina,12,F,USA,New York,Buffalo,Farmer,Upper Middle,3,87,4,122,6,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Paula,16,F,Canada,Quebec,Montreal,Teacher,High,1,44,1,104,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Zachary,18,M,UK,Scotland,Glasgow,Businessperson,High,2,63,3,108,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Katherine,15,F,Canada,Quebec,Quebec City,Farmer,Lower Middle,1,43,5,94,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Sharon,15,M,Canada,Quebec,Montreal,IT Professional,Low,1,42,2,96,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Michael,9,M,India,Tamil Nadu,Coimbatore,Businessperson,Low,3,99,2,135,8,7,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Courtney,8,F,India,Maharashtra,Mumbai,Businessperson,Lower Middle,1,45,2,95,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Sherry,17,M,UK,Scotland,Edinburgh,Clerk,Upper Middle,2,66,7,106,6,5,2,7,30,12,20,Intermediate_Python,Python_material,1
+Donald,8,F,USA,Texas,Dallas,Clerk,Low,1,50,3,94,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Lindsay,18,F,UK,England,London,Engineer,Upper Middle,1,41,1,91,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Susan,13,F,Canada,Ontario,Ottawa,Engineer,Upper Middle,1,39,3,86,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Roger,12,F,India,Maharashtra,Mumbai,Laborer,High,3,81,2,112,9,8,3,3,40,12,15,Learn_Good_Python,Python_material,1
+Katherine,11,M,Canada,Quebec,Quebec City,IT Professional,Upper Middle,1,47,5,88,2,3,1,7,30,15,25,Basic_Python,Python_material,1
+Angela,11,F,Canada,Quebec,Quebec City,Engineer,Lower Middle,1,44,3,104,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Jennifer,13,F,USA,Texas,Houston,Engineer,Upper Middle,1,47,5,89,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Reginald,10,M,UK,England,Manchester,Farmer,Low,2,65,7,110,8,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Kim,11,M,UK,Scotland,Edinburgh,IT Professional,High,3,87,7,124,9,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Richard,12,M,USA,Texas,Dallas,Doctor,Low,2,55,8,105,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Johnny,9,M,Canada,Ontario,Toronto,Businessperson,Lower Middle,2,58,3,109,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Belinda,12,M,Canada,Ontario,Ottawa,Doctor,Low,2,75,7,121,9,9,2,3,50,12,20,Intermediate_Python,Python_material,1
+Mike,15,F,Canada,Ontario,Toronto,Clerk,Lower Middle,3,91,3,136,9,9,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Monica,9,F,Canada,Ontario,Ottawa,Engineer,High,1,47,1,105,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Karen,10,F,Canada,Quebec,Montreal,IT Professional,Lower Middle,2,64,7,104,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Jeff,13,M,India,Maharashtra,Pune,Businessperson,Lower Middle,1,39,5,85,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Larry,14,F,USA,Texas,Houston,Doctor,Low,1,41,3,89,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Richard,11,M,UK,Scotland,Edinburgh,Laborer,Low,3,93,4,123,7,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+John,8,F,India,Delhi,New Delhi,IT Professional,Upper Middle,1,41,2,97,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Angela,8,F,USA,California,San Francisco,IT Professional,High,1,46,5,99,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Alicia,11,F,UK,Scotland,Edinburgh,IT Professional,High,1,46,1,90,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Zachary,8,M,Canada,Quebec,Montreal,IT Professional,Lower Middle,2,57,6,104,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Richard,17,F,India,Delhi,New Delhi,Doctor,Upper Middle,2,52,4,101,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+James,14,F,UK,England,Manchester,Doctor,Lower Middle,2,61,3,106,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Katherine,17,M,India,Maharashtra,Pune,Teacher,High,1,45,1,88,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Benjamin,16,F,Canada,Ontario,Ottawa,Farmer,Upper Middle,3,86,4,125,6,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Jesse,16,F,UK,Scotland,Glasgow,Teacher,Upper Middle,3,81,3,122,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Stephen,9,F,India,Maharashtra,Mumbai,IT Professional,Upper Middle,2,54,4,104,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Natasha,9,F,Canada,Quebec,Montreal,Doctor,Upper Middle,3,86,6,118,6,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Brittany,10,M,UK,England,Manchester,Engineer,High,1,40,5,90,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+James,12,M,India,Tamil Nadu,Coimbatore,Businessperson,Low,2,66,3,116,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Scott,16,M,Canada,Ontario,Toronto,Doctor,High,1,38,6,85,2,3,1,7,30,15,25,Basic_Python,Python_material,1
+Christina,14,F,Canada,Ontario,Toronto,Businessperson,Upper Middle,1,43,1,85,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+John,14,F,India,Delhi,New Delhi,Doctor,Upper Middle,1,45,6,102,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Natasha,15,F,UK,Scotland,Edinburgh,Teacher,Upper Middle,1,45,4,85,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Teresa,15,F,Canada,Ontario,Ottawa,Clerk,High,2,59,2,101,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Vanessa,13,M,USA,California,Los Angeles,IT Professional,Low,2,56,4,97,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Jeffrey,14,M,India,Delhi,New Delhi,Teacher,High,3,90,4,120,9,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Stephanie,10,M,USA,Texas,Dallas,Engineer,Lower Middle,1,47,3,100,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Melinda,8,F,Canada,Quebec,Quebec City,IT Professional,Low,1,33,6,90,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Nicole,10,F,UK,England,Manchester,IT Professional,High,3,88,8,120,8,7,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Wendy,14,M,India,Maharashtra,Mumbai,Farmer,Low,1,39,1,87,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Anthony,17,F,India,Delhi,New Delhi,Doctor,Lower Middle,1,44,3,95,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Donna,15,F,India,Maharashtra,Pune,Teacher,Lower Middle,3,90,2,122,8,9,3,5,50,10,15,Learn_Good_Python,Python_material,1
+Christina,13,M,Canada,Ontario,Toronto,Teacher,Upper Middle,2,52,4,96,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kimberly,9,F,USA,California,San Francisco,Teacher,Upper Middle,1,42,1,85,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Rita,15,F,USA,Texas,Dallas,Doctor,Low,2,51,8,100,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Nicholas,11,F,UK,Scotland,Glasgow,Engineer,High,2,59,5,105,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Samuel,15,F,USA,New York,New York City,Teacher,High,2,53,7,98,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Edward,11,M,USA,New York,New York City,Clerk,Low,3,76,5,112,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Lance,10,F,India,Delhi,New Delhi,IT Professional,Low,3,77,7,113,9,9,3,3,50,12,15,Learn_Good_Python,Python_material,1
+Sabrina,8,F,UK,Scotland,Edinburgh,Laborer,Low,2,51,7,105,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Michael,14,M,UK,England,London,Doctor,High,2,62,7,104,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Marilyn,15,M,UK,Scotland,Edinburgh,Doctor,Upper Middle,1,44,5,104,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Tammy,9,F,UK,Scotland,Glasgow,Clerk,Lower Middle,3,98,4,128,6,5,3,3,30,10,15,Learn_Good_Python,Python_material,1
+Claire,10,M,India,Maharashtra,Mumbai,Farmer,Low,1,35,4,94,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Tammy,17,F,India,Tamil Nadu,Chennai,Engineer,Low,2,63,7,104,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Kara,15,F,UK,England,London,Clerk,High,1,41,3,93,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Destiny,14,F,USA,New York,New York City,Teacher,Lower Middle,1,43,5,91,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Michelle,12,M,Canada,Quebec,Quebec City,Businessperson,Upper Middle,1,40,6,86,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Sonya,14,M,India,Maharashtra,Pune,Laborer,Upper Middle,1,46,6,88,3,4,1,7,30,15,25,Basic_Python,Python_material,1
+Travis,10,M,USA,California,Los Angeles,Clerk,Low,3,83,7,118,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Zachary,15,F,India,Maharashtra,Pune,Businessperson,High,2,74,7,123,9,10,2,3,50,12,20,Intermediate_Python,Python_material,1
+Emma,17,F,Canada,Quebec,Quebec City,Businessperson,Low,1,49,4,106,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Sean,14,M,Canada,Quebec,Montreal,Engineer,High,2,59,3,109,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Christopher,16,F,Canada,Ontario,Ottawa,Engineer,Lower Middle,1,50,3,103,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Christopher,10,F,India,Maharashtra,Pune,Farmer,Upper Middle,2,52,7,104,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Emily,18,F,UK,Scotland,Edinburgh,Clerk,Lower Middle,1,33,6,93,7,7,1,5,40,15,25,Basic_Python,Python_material,1
+Christopher,12,F,Canada,Quebec,Montreal,Businessperson,High,2,57,7,101,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Daniel,11,F,UK,Scotland,Glasgow,IT Professional,Low,2,67,6,114,7,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Joseph,15,F,USA,Texas,Dallas,Teacher,Upper Middle,2,53,7,100,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Cindy,15,F,India,Delhi,New Delhi,Businessperson,Low,1,44,6,102,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Jason,12,F,India,Maharashtra,Pune,Engineer,Lower Middle,2,56,8,110,6,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Daniel,16,F,UK,England,Manchester,Businessperson,Lower Middle,2,67,6,109,7,7,2,5,40,12,20,Intermediate_Python,Python_material,1
+Beth,11,M,Canada,Ontario,Toronto,Clerk,Low,1,48,4,100,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Jack,11,F,India,Delhi,New Delhi,IT Professional,Low,2,61,6,105,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Gary,15,F,UK,England,Manchester,IT Professional,Upper Middle,3,82,3,115,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Brooke,10,F,USA,California,San Francisco,Teacher,High,1,38,4,86,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Brian,10,M,India,Tamil Nadu,Coimbatore,Businessperson,Low,3,77,2,113,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+James,9,F,India,Maharashtra,Pune,Farmer,Low,2,52,6,109,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Scott,11,F,UK,England,Manchester,Farmer,Upper Middle,1,39,6,98,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Grant,9,M,UK,Scotland,Edinburgh,Businessperson,Upper Middle,1,37,2,88,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Benjamin,9,M,USA,California,Los Angeles,Businessperson,Lower Middle,3,83,6,119,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Rebecca,12,F,UK,England,Manchester,Teacher,Upper Middle,2,52,8,108,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Manuel,10,F,India,Tamil Nadu,Chennai,Teacher,Low,3,91,6,122,8,9,3,5,50,10,15,Learn_Good_Python,Python_material,1
+Erin,14,M,UK,Scotland,Edinburgh,Doctor,Low,3,85,2,116,6,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Robert,14,F,Canada,Ontario,Ottawa,Doctor,Low,2,54,8,103,5,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Tina,16,F,USA,California,San Francisco,Engineer,High,1,33,6,85,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+Robert,8,M,UK,England,London,Teacher,Low,3,91,5,122,9,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Melanie,16,M,Canada,Quebec,Montreal,Doctor,Lower Middle,1,43,4,90,7,6,1,5,30,15,25,Basic_Python,Python_material,1
+Whitney,18,F,India,Maharashtra,Pune,Clerk,Lower Middle,1,45,5,98,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Lisa,10,M,India,Tamil Nadu,Chennai,Farmer,High,1,43,5,92,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Tony,8,F,India,Tamil Nadu,Coimbatore,Laborer,High,2,60,2,110,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Brittney,9,F,UK,Scotland,Edinburgh,IT Professional,Lower Middle,3,100,4,140,8,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Jeffrey,8,M,Canada,Quebec,Quebec City,Businessperson,High,2,66,7,113,7,8,2,5,40,12,20,Intermediate_Python,Python_material,1
+Nicole,10,F,India,Tamil Nadu,Chennai,Farmer,Lower Middle,1,47,6,93,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Samuel,14,F,India,Delhi,New Delhi,Engineer,Low,1,41,6,90,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Steven,17,M,India,Tamil Nadu,Chennai,Engineer,Upper Middle,3,88,8,130,10,10,3,3,50,10,15,Learn_Good_Python,Python_material,1
+Joseph,12,M,USA,New York,Buffalo,Engineer,Lower Middle,2,59,5,104,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Andrew,13,M,UK,England,London,Laborer,Low,1,44,3,101,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Kimberly,18,F,India,Delhi,New Delhi,Clerk,High,3,79,7,116,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Thomas,10,F,India,Tamil Nadu,Chennai,Laborer,Upper Middle,3,77,4,114,8,9,3,5,50,12,15,Learn_Good_Python,Python_material,1
+Keith,16,M,USA,New York,New York City,Farmer,Lower Middle,1,44,5,98,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+James,9,F,USA,Texas,Dallas,Doctor,Low,3,89,7,120,9,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Joseph,15,M,UK,England,London,Laborer,High,1,46,6,106,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Nicholas,13,M,USA,California,Los Angeles,Clerk,Low,2,55,4,96,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Ashley,9,F,Canada,Quebec,Quebec City,Clerk,High,1,43,5,86,5,5,1,7,30,15,25,Basic_Python,Python_material,1
+Randy,14,F,UK,Scotland,Glasgow,Laborer,Low,1,40,1,92,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Sharon,8,F,Canada,Ontario,Toronto,Teacher,Low,1,48,2,107,5,4,1,7,30,15,25,Basic_Python,Python_material,1
+Dennis,8,F,USA,California,Los Angeles,Clerk,High,1,43,2,99,5,6,1,7,30,15,25,Basic_Python,Python_material,1
+John,16,F,USA,California,Los Angeles,Teacher,High,3,92,8,124,7,8,3,5,40,10,15,Learn_Good_Python,Python_material,1
+Brenda,17,M,USA,Texas,Dallas,IT Professional,Upper Middle,2,51,5,91,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Anthony,9,M,Canada,Ontario,Ottawa,IT Professional,Low,3,86,2,122,6,6,3,5,30,10,15,Learn_Good_Python,Python_material,1
+Katie,18,M,India,Maharashtra,Mumbai,IT Professional,High,2,54,7,94,7,7,2,5,40,15,20,Intermediate_Python,Python_material,1
+Daniel,17,F,UK,Scotland,Edinburgh,Teacher,Low,2,56,4,102,4,3,2,7,30,15,20,Intermediate_Python,Python_material,1
+Sheena,17,F,USA,California,Los Angeles,IT Professional,High,3,84,2,119,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Zoe,10,F,USA,New York,New York City,Laborer,Low,3,85,3,123,8,8,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Michael,18,F,UK,England,Manchester,Doctor,Low,1,31,2,88,3,2,1,7,30,15,25,Basic_Python,Python_material,1
+Patrick,12,F,UK,England,Manchester,Clerk,Lower Middle,1,36,4,95,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Paul,13,F,USA,Texas,Dallas,Businessperson,Lower Middle,2,56,2,98,4,4,2,7,30,15,20,Intermediate_Python,Python_material,1
+Michael,10,F,India,Delhi,New Delhi,Doctor,High,2,55,8,110,8,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Teresa,18,M,USA,California,Los Angeles,Laborer,Low,3,85,8,117,8,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Heather,10,M,Canada,Quebec,Quebec City,Laborer,Low,1,33,1,86,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Kevin,9,M,UK,Scotland,Glasgow,IT Professional,Lower Middle,3,85,3,119,6,5,3,5,30,12,15,Learn_Good_Python,Python_material,1
+Jennifer,15,F,India,Tamil Nadu,Chennai,IT Professional,High,1,48,4,92,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+Christina,10,M,Canada,Quebec,Quebec City,Clerk,Upper Middle,1,50,2,97,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Karen,8,F,UK,Scotland,Glasgow,Clerk,Upper Middle,1,43,1,99,7,8,1,5,40,15,25,Basic_Python,Python_material,1
+Brett,12,M,India,Maharashtra,Pune,Engineer,Lower Middle,1,45,1,95,4,4,1,7,30,15,25,Basic_Python,Python_material,1
+Patricia,8,M,Canada,Quebec,Quebec City,Engineer,High,1,35,5,94,4,3,1,7,30,15,25,Basic_Python,Python_material,1
+Nicholas,11,F,UK,Scotland,Glasgow,Teacher,Upper Middle,2,70,7,113,8,9,2,5,50,12,20,Intermediate_Python,Python_material,1
+Kathy,12,F,UK,England,Manchester,IT Professional,Upper Middle,3,79,7,122,6,6,3,5,30,12,15,Learn_Good_Python,Python_material,1
+William,18,F,UK,England,Manchester,Clerk,Upper Middle,2,63,6,108,6,7,2,7,40,15,20,Intermediate_Python,Python_material,1
+Katherine,9,F,USA,New York,Buffalo,Farmer,Upper Middle,2,53,2,98,5,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Rachel,18,M,UK,Scotland,Edinburgh,Laborer,Lower Middle,2,61,8,103,7,8,2,5,40,15,20,Intermediate_Python,Python_material,1
+Patricia,12,M,India,Delhi,New Delhi,Businessperson,Low,1,44,3,89,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Jeffrey,12,F,India,Delhi,New Delhi,Laborer,Lower Middle,1,33,3,87,3,3,1,7,30,15,25,Basic_Python,Python_material,1
+Robert,16,F,UK,Scotland,Edinburgh,Doctor,High,1,30,3,90,6,7,1,7,40,15,25,Basic_Python,Python_material,1
+Mary,12,F,India,Maharashtra,Pune,IT Professional,Lower Middle,2,58,3,100,6,5,2,7,30,15,20,Intermediate_Python,Python_material,1
+Michael,13,F,USA,New York,New York City,Laborer,Low,3,93,5,139,8,8,3,3,40,10,15,Learn_Good_Python,Python_material,1
+Brenda,18,M,USA,California,San Francisco,IT Professional,High,1,49,1,90,4,5,1,7,30,15,25,Basic_Python,Python_material,1
+James,10,M,USA,Texas,Dallas,Businessperson,Lower Middle,1,36,6,91,6,6,1,7,30,15,25,Basic_Python,Python_material,1
+Cynthia,12,M,India,Maharashtra,Mumbai,Teacher,Upper Middle,3,83,6,113,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Donna,8,M,India,Maharashtra,Pune,Doctor,Upper Middle,2,75,5,125,9,10,2,3,50,12,20,Intermediate_Python,Python_material,1
+Sheri,9,F,Canada,Ontario,Toronto,Clerk,Low,1,34,4,93,6,5,1,7,30,15,25,Basic_Python,Python_material,1
+Christopher,13,M,UK,England,London,Businessperson,Lower Middle,2,56,3,102,7,6,2,5,30,15,20,Intermediate_Python,Python_material,1
+Patricia,13,F,India,Delhi,New Delhi,IT Professional,Low,3,85,4,117,7,7,3,5,40,12,15,Learn_Good_Python,Python_material,1
+Tyler,18,M,USA,California,San Francisco,Engineer,Low,2,51,8,91,5,6,2,7,30,15,20,Intermediate_Python,Python_material,1
+Tara,18,M,UK,Scotland,Edinburgh,Businessperson,High,1,35,2,85,2,1,1,7,30,15,25,Basic_Python,Python_material,1
+Tonya,18,F,India,Delhi,New Delhi,Teacher,High,1,44,4,88,4,3,1,7,30,15,25,Basic_Python,Python_material,1

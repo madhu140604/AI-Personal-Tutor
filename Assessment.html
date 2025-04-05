@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Tutor Full Assessment</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    body { font-family: 'Inter', sans-serif; }
+    .question-block { @apply mb-6; }
+    .section-title { @apply text-xl font-bold mt-10 mb-4; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800 min-h-screen flex flex-col items-center justify-start p-6">
+  <div class="bg-white shadow-md rounded-xl p-8 w-full max-w-4xl">
+    <h1 class="text-2xl font-bold text-center mb-8">AI Tutor Full Assessment</h1>
+    <form class="space-y-6">
+
+      <!-- Level 1 Questions -->
+      <div class="section-title">Level 1: Zero Understanding (Basic Awareness Check)</div>
+      <div class="space-y-4">
+        <div class="question-block">
+          <label>What is Python?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) A type of snake</option>
+            <option>b) A programming language</option>
+            <option>c) A software tool</option>
+            <option>d) A database system</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>How do you run a Python script?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) By clicking on it</option>
+            <option>b) Using a Python interpreter</option>
+            <option>c) By writing it in a web browser</option>
+            <option>d) By compiling it</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>Which extension do Python files have?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) .py</option>
+            <option>b) .exe</option>
+            <option>c) .txt</option>
+            <option>d) .pyt</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>What will print("Hello, World!") output?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) Hello, World!</option>
+            <option>b) "Hello, World!"</option>
+            <option>c) print(Hello, World!)</option>
+            <option>d) An error</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Level 2 Questions -->
+      <div class="section-title">Level 2: Basic Syntax & Concepts</div>
+      <div class="space-y-4">
+        <div class="question-block">
+          <label>What is the correct way to assign a value to a variable in Python?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) x = 5</option>
+            <option>b) 5 = x</option>
+            <option>c) int x = 5</option>
+            <option>d) x == 5</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>Which data type is immutable in Python?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) List</option>
+            <option>b) Dictionary</option>
+            <option>c) Tuple</option>
+            <option>d) Set</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>What is the output of 5 // 2?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) 2.5</option>
+            <option>b) 2</option>
+            <option>c) 3</option>
+            <option>d) 5.0</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>How do you write a comment in Python?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) # This is a comment</option>
+            <option>b) // This is a comment</option>
+            <option>c) /* This is a comment */</option>
+            <option>d) &lt;!-- This is a comment --&gt;</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Level 3 Questions -->
+      <div class="section-title">Level 3: Intermediate Concepts & Application</div>
+      <div class="space-y-4">
+        <div class="question-block">
+          <label>What will bool([]) return?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) True</option>
+            <option>b) False</option>
+            <option>c) None</option>
+            <option>d) Error</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>What is the correct syntax to define a function in Python?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) function myFunction():</option>
+            <option>b) def myFunction():</option>
+            <option>c) def myFunction {}</option>
+            <option>d) func myFunction()</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>How do you read a file in Python?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) file.read("filename.txt")</option>
+            <option>b) open("filename.txt", "r")</option>
+            <option>c) file.open("filename.txt")</option>
+            <option>d) read("filename.txt")</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>What is the purpose of the try-except block?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) To handle exceptions</option>
+            <option>b) To declare a function</option>
+            <option>c) To define a loop</option>
+            <option>d) To create a dictionary</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Level 4 Questions -->
+      <div class="section-title">Level 4: Advanced Concepts & Problem Solving</div>
+      <div class="space-y-4">
+        <div class="question-block">
+          <label>What is the output of the following code?<br><pre>def test(a, b=[]):
+    b.append(a)
+    return b
+
+print(test(1))
+print(test(2))</pre></label>
+          <select class="border p-2 rounded w-full">
+            <option>a) [1] [2]</option>
+            <option>b) [1] [1, 2]</option>
+            <option>c) [1] [2] [3]</option>
+            <option>d) [1, 2] [1, 2]</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>What is the difference between <code>is</code> and <code>==</code> in Python?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) <code>is</code> checks identity, <code>==</code> checks value</option>
+            <option>b) <code>is</code> and <code>==</code> are the same</option>
+            <option>c) <code>is</code> compares values, <code>==</code> compares memory location</option>
+            <option>d) <code>is</code> is used for mathematical operations</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>How do you handle multiple exceptions in Python?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) Using multiple except blocks</option>
+            <option>b) Using a single except block</option>
+            <option>c) Using a nested try block</option>
+            <option>d) Python does not support multiple exceptions</option>
+          </select>
+        </div>
+        <div class="question-block">
+          <label>What will <code>sorted([2, 5, 1, 9], reverse=True)</code> return?</label>
+          <select class="border p-2 rounded w-full">
+            <option>a) [1, 2, 5, 9]</option>
+            <option>b) [9, 5, 2, 1]</option>
+            <option>c) [2, 5, 1, 9]</option>
+            <option>d) None</option>
+          </select>
+        </div>
+      </div>
+
+      <button type="submit" class="w-full bg-blue-600 text-white py-2 rounded-lg font-semibold hover:bg-blue-700 mt-4">Submit</button>
+    </form>
+  </div>
+</body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FAQ - Python Courses</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f6f8;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    header {
+      background-color: #4B8BBE;
+      padding: 2rem 1rem;
+      color: white;
+      text-align: center;
+    }
+
+    .faq-container {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .faq-item {
+      background: white;
+      margin-bottom: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      overflow: hidden;
+    }
+
+    .faq-question {
+      padding: 1rem;
+      cursor: pointer;
+      background-color: #e3edf8;
+      font-weight: bold;
+      position: relative;
+    }
+
+    .faq-question::after {
+      content: '+';
+      position: absolute;
+      right: 1rem;
+      font-size: 1.2rem;
+    }
+
+    .faq-question.active::after {
+      content: '-';
+    }
+
+    .faq-answer {
+      padding: 1rem;
+      display: none;
+      background-color: #f9fbfd;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Frequently Asked Questions</h1>
+    <p>Your Python course questions, answered.</p>
+  </header>
+
+  <div class="faq-container">
+    <div class="faq-item">
+      <div class="faq-question">What is the duration of each course level?</div>
+      <div class="faq-answer">Each course level typically takes 2-4 weeks to complete, depending on your pace.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-question">Do I need prior programming knowledge?</div>
+      <div class="faq-answer">Nope! Our Basic Python course is made for absolute beginners.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-question">Are there any certifications?</div>
+      <div class="faq-answer">Yes! Upon completion of each level, you'll receive a digital certificate of achievement.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-question">Can I access the courses offline?</div>
+      <div class="faq-answer">Currently, our platform requires internet access, but downloadable resources are coming soon.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-question">Is there any support if I get stuck?</div>
+      <div class="faq-answer">Definitely! We offer community support, mentor Q&A sessions, and priority email support for enrolled learners.</div>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 YourBrand | Got more questions? <a href="#">Contact us</a>
+  </footer>
+
+  <script>
+    const questions = document.querySelectorAll('.faq-question');
+
+    questions.forEach(q => {
+      q.addEventListener('click', () => {
+        q.classList.toggle('active');
+        const answer = q.nextElementSibling;
+        if (answer.style.display === 'block') {
+          answer.style.display = 'none';
+        } else {
+          answer.style.display = 'block';
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>

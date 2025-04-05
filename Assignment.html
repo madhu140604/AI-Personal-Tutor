@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adaptive Assessment</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f0f2f5;
+    }
+    h2 {
+      color: #333;
+    }
+    .section {
+      background: #fff;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    label {
+      display: block;
+      margin: 8px 0 4px;
+    }
+    input, select {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .question {
+      margin-bottom: 15px;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #result {
+      font-weight: bold;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Adaptive Assessment</h2>
+
+  <form id="assessmentForm">
+    <!-- Memory Power Test -->
+    <div class="section">
+      <h3>Memory Power Test</h3>
+      <div class="question">
+        <label>1. You are shown this number for 5 seconds: 742916. After 10 seconds, what was the number?</label>
+        <select name="mem1">
+          <option>a) 742916</option>
+          <option>b) 749216</option>
+          <option>c) 742961</option>
+          <option>d) 741926</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>2. Which word was NOT in the list? (Apple, Tiger, Chair, Bottle, River)</label>
+        <select name="mem2">
+          <option>a) Bottle</option>
+          <option>b) Chair</option>
+          <option>c) Orange</option>
+          <option>d) River</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>3. Which letter was at the 5th position in: M X R B A Q T C</label>
+        <select name="mem3">
+          <option>a) X</option>
+          <option>b) A</option>
+          <option>c) Q</option>
+          <option>d) T</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>4. Which item was NOT on the shopping list?</label>
+        <select name="mem4">
+          <option>a) Sugar</option>
+          <option>b) Butter</option>
+          <option>c) Oil</option>
+          <option>d) Rice</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>5. What is the correct sequence of numbers: 21, 34, 56, 78, 90?</label>
+        <select name="mem5">
+          <option>a) 34, 56, 90, 21, 78</option>
+          <option>b) 21, 34, 56, 78, 90</option>
+          <option>c) 56, 34, 21, 90, 78</option>
+          <option>d) 90, 78, 56, 34, 21</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- IQ Test -->
+    <div class="section">
+      <h3>IQ Test</h3>
+      <div class="question">
+        <label>1. What comes next in the series? 3, 6, 11, 18, 27, ?</label>
+        <select name="iq1">
+          <option>a) 36</option>
+          <option>b) 38</option>
+          <option>c) 40</option>
+          <option>d) 42</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>2. Which number is the odd one out?</label>
+        <select name="iq2">
+          <option>a) 16</option>
+          <option>b) 25</option>
+          <option>c) 49</option>
+          <option>d) 60</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>3. If CAT = 3120, then DOG = ?</label>
+        <select name="iq3">
+          <option>a) 4157</option>
+          <option>b) 4180</option>
+          <option>c) 4230</option>
+          <option>d) 4260</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>4. Which of the following words is different from the rest?</label>
+        <select name="iq4">
+          <option>a) Mercury</option>
+          <option>b) Venus</option>
+          <option>c) Earth</option>
+          <option>d) Moon</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>5. A man is facing North. He turns 90° clockwise, 180° counterclockwise, then 90° clockwise. Where is he facing?</label>
+        <select name="iq5">
+          <option>a) North</option>
+          <option>b) East</option>
+          <option>c) South</option>
+          <option>d) West</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Concentration Test -->
+    <div class="section">
+      <h3>Concentration Test</h3>
+      <div class="question">
+        <label>1. Find the missing number in the sequence: 2, 6, 12, 20, ?, 42</label>
+        <select name="conc1">
+          <option>a) 28</option>
+          <option>b) 30</option>
+          <option>c) 32</option>
+          <option>d) 34</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>2. Which word is different from the others?</label>
+        <select name="conc2">
+          <option>a) Rose</option>
+          <option>b) Tulip</option>
+          <option>c) Lotus</option>
+          <option>d) Apple</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>3. How many times does the letter "E" appear in the sentence?</label>
+        <select name="conc3">
+          <option>a) 6</option>
+          <option>b) 7</option>
+          <option>c) 8</option>
+          <option>d) 9</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>4. What color is the word "RED" written in?</label>
+        <select name="conc4">
+          <option>a) Blue</option>
+          <option>b) Yellow</option>
+          <option>c) Green</option>
+          <option>d) Black</option>
+        </select>
+      </div>
+      <div class="question">
+        <label>5. What comes next in the beep pattern?</label>
+        <select name="conc5">
+          <option>a) Beep</option>
+          <option>b) Beep-Beep</option>
+          <option>c) Pause</option>
+          <option>d) Beep-Beep-Beep</option>
+        </select>
+      </div>
+    </div>
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script>
+    document.getElementById("assessmentForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+
+      const answers = {
+        mem1: "a) 742916",
+        mem2: "c) Orange",
+        mem3: "b) A",
+        mem4: "c) Oil",
+        mem5: "b) 21, 34, 56, 78, 90",
+        iq1: "b) 38",
+        iq2: "d) 60",
+        iq3: "b) 4180",
+        iq4: "d) Moon",
+        iq5: "d) West",
+        conc1: "b) 30",
+        conc2: "d) Apple",
+        conc3: "c) 8",
+        conc4: "a) Blue",
+        conc5: "a) Beep"
+      };
+
+      const form = e.target;
+      let score = 0;
+      for (let key in answers) {
+        if (form[key]?.value === answers[key]) {
+          score++;
+        }
+      }
+
+      document.getElementById("result").textContent = `You scored ${score} out of 15.`;
+    });
+  </script>
+
+</body>
+</html>
